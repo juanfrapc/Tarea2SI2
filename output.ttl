@@ -1,0 +1,1746 @@
+<http://www.si2.com/5390Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "043632W" .
+<http://www.si2.com/5390Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "750" .
+<http://www.si2.com/5390Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "381959N" .
+<http://www.si2.com/5390Y> <http://aemet.linkeddata.es/ontology/Province> "CORDOBA" .
+<http://www.si2.com/5390Y> <http://aemet.linkeddata.es/ontology/indsinop> "08346" .
+<http://www.si2.com/5390Y> <http://aemet.linkeddata.es/ontology/stationName> "VILLANUEVA DE CÓRDOBA" .
+<http://www.si2.com/1208H> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "054203W" .
+<http://www.si2.com/1208H> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "5" .
+<http://www.si2.com/1208H> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "433336N" .
+<http://www.si2.com/1208H> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1208H> <http://aemet.linkeddata.es/ontology/indsinop> "08014" .
+<http://www.si2.com/1208H> <http://aemet.linkeddata.es/ontology/stationName> "GIJÓN, PUERTO" .
+<http://www.si2.com/6084X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "043706W" .
+<http://www.si2.com/6084X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "8" .
+<http://www.si2.com/6084X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "363219N" .
+<http://www.si2.com/6084X> <http://aemet.linkeddata.es/ontology/Province> "MALAGA" .
+<http://www.si2.com/6084X> <http://aemet.linkeddata.es/ontology/indsinop> "08480" .
+<http://www.si2.com/6084X> <http://aemet.linkeddata.es/ontology/stationName> "FUENGIROLA" .
+<http://www.si2.com/B013X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "025309E" .
+<http://www.si2.com/B013X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "490" .
+<http://www.si2.com/B013X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "394924N" .
+<http://www.si2.com/B013X> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B013X> <http://aemet.linkeddata.es/ontology/indsinop> "08304" .
+<http://www.si2.com/B013X> <http://aemet.linkeddata.es/ontology/stationName> "ESCORCA, LLUC" .
+<http://www.si2.com/8058X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "000545W" .
+<http://www.si2.com/8058X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "5" .
+<http://www.si2.com/8058X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385544N" .
+<http://www.si2.com/8058X> <http://aemet.linkeddata.es/ontology/Province> "VALENCIA" .
+<http://www.si2.com/8058X> <http://aemet.linkeddata.es/ontology/indsinop> "08282" .
+<http://www.si2.com/8058X> <http://aemet.linkeddata.es/ontology/stationName> "OLIVA" .
+<http://www.si2.com/9698U> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "005155E" .
+<http://www.si2.com/9698U> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "807" .
+<http://www.si2.com/9698U> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "421219N" .
+<http://www.si2.com/9698U> <http://aemet.linkeddata.es/ontology/Province> "LLEIDA" .
+<http://www.si2.com/9698U> <http://aemet.linkeddata.es/ontology/indsinop> "08112" .
+<http://www.si2.com/9698U> <http://aemet.linkeddata.es/ontology/stationName> "TALARN" .
+<http://www.si2.com/3191E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034554W" .
+<http://www.si2.com/3191E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1004" .
+<http://www.si2.com/3191E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "404146N" .
+<http://www.si2.com/3191E> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3191E> <http://aemet.linkeddata.es/ontology/indsinop> "08219" .
+<http://www.si2.com/3191E> <http://aemet.linkeddata.es/ontology/stationName> "COLMENAR VIEJO" .
+<http://www.si2.com/1212E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "060239W" .
+<http://www.si2.com/1212E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "127" .
+<http://www.si2.com/1212E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "433401N" .
+<http://www.si2.com/1212E> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1212E> <http://aemet.linkeddata.es/ontology/indsinop> "08011" .
+<http://www.si2.com/1212E> <http://aemet.linkeddata.es/ontology/stationName> "ASTURIAS AEROPUERTO" .
+<http://www.si2.com/0252D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "023224E" .
+<http://www.si2.com/0252D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "74" .
+<http://www.si2.com/0252D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413515N" .
+<http://www.si2.com/0252D> <http://aemet.linkeddata.es/ontology/Province> "BARCELONA" .
+<http://www.si2.com/0252D> <http://aemet.linkeddata.es/ontology/indsinop> "08186" .
+<http://www.si2.com/0252D> <http://aemet.linkeddata.es/ontology/stationName> "ARENYS DE MAR" .
+<http://www.si2.com/1109> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034932W" .
+<http://www.si2.com/1109> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "3" .
+<http://www.si2.com/1109> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432526N" .
+<http://www.si2.com/1109> <http://aemet.linkeddata.es/ontology/Province> "CANTABRIA" .
+<http://www.si2.com/1109> <http://aemet.linkeddata.es/ontology/indsinop> "08021" .
+<http://www.si2.com/1109> <http://aemet.linkeddata.es/ontology/stationName> "SANTANDER AEROPUERTO" .
+<http://www.si2.com/5402> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "045048W" .
+<http://www.si2.com/5402> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "90" .
+<http://www.si2.com/5402> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "375056N" .
+<http://www.si2.com/5402> <http://aemet.linkeddata.es/ontology/Province> "CORDOBA" .
+<http://www.si2.com/5402> <http://aemet.linkeddata.es/ontology/indsinop> "08410" .
+<http://www.si2.com/5402> <http://aemet.linkeddata.es/ontology/stationName> "CÓRDOBA AEROPUERTO" .
+<http://www.si2.com/4067> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033142W" .
+<http://www.si2.com/4067> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "690" .
+<http://www.si2.com/4067> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392931N" .
+<http://www.si2.com/4067> <http://aemet.linkeddata.es/ontology/Province> "TOLEDO" .
+<http://www.si2.com/4067> <http://aemet.linkeddata.es/ontology/indsinop> "08273" .
+<http://www.si2.com/4067> <http://aemet.linkeddata.es/ontology/stationName> "MADRIDEJOS" .
+<http://www.si2.com/1393> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "091239W" .
+<http://www.si2.com/1393> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "50" .
+<http://www.si2.com/1393> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "430938N" .
+<http://www.si2.com/1393> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1393> <http://aemet.linkeddata.es/ontology/indsinop> "08006" .
+<http://www.si2.com/1393> <http://aemet.linkeddata.es/ontology/stationName> "CABO VILAN" .
+<http://www.si2.com/2870> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053944W" .
+<http://www.si2.com/2870> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "775" .
+<http://www.si2.com/2870> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405727N" .
+<http://www.si2.com/2870> <http://aemet.linkeddata.es/ontology/Province> "SALAMANCA" .
+<http://www.si2.com/2870> <http://aemet.linkeddata.es/ontology/indsinop> "08201" .
+<http://www.si2.com/2870> <http://aemet.linkeddata.es/ontology/stationName> "SALAMANCA" .
+<http://www.si2.com/2465> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040735W" .
+<http://www.si2.com/2465> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1005" .
+<http://www.si2.com/2465> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405643N" .
+<http://www.si2.com/2465> <http://aemet.linkeddata.es/ontology/Province> "SEGOVIA" .
+<http://www.si2.com/2465> <http://aemet.linkeddata.es/ontology/indsinop> "08213" .
+<http://www.si2.com/2465> <http://aemet.linkeddata.es/ontology/stationName> "SEGOVIA" .
+<http://www.si2.com/1351> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "074105W" .
+<http://www.si2.com/1351> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "80" .
+<http://www.si2.com/1351> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "434710N" .
+<http://www.si2.com/1351> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1351> <http://aemet.linkeddata.es/ontology/indsinop> "08004" .
+<http://www.si2.com/1351> <http://aemet.linkeddata.es/ontology/stationName> "ESTACA DE BARES" .
+<http://www.si2.com/2491C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "054124W" .
+<http://www.si2.com/2491C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1960" .
+<http://www.si2.com/2491C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402118N" .
+<http://www.si2.com/2491C> <http://aemet.linkeddata.es/ontology/Province> "SALAMANCA" .
+<http://www.si2.com/2491C> <http://aemet.linkeddata.es/ontology/indsinop> "08205" .
+<http://www.si2.com/2491C> <http://aemet.linkeddata.es/ontology/stationName> "LA COVATILLA, ESTACIÓN DE ESQUÍ" .
+<http://www.si2.com/1283U> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "062812W" .
+<http://www.si2.com/1283U> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "60" .
+<http://www.si2.com/1283U> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "433409N" .
+<http://www.si2.com/1283U> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1283U> <http://aemet.linkeddata.es/ontology/indsinop> "08010" .
+<http://www.si2.com/1283U> <http://aemet.linkeddata.es/ontology/stationName> "CABO BUSTO" .
+<http://www.si2.com/1159> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "042332W" .
+<http://www.si2.com/1159> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "38" .
+<http://www.si2.com/1159> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432336N" .
+<http://www.si2.com/1159> <http://aemet.linkeddata.es/ontology/Province> "CANTABRIA" .
+<http://www.si2.com/1159> <http://aemet.linkeddata.es/ontology/indsinop> "08017" .
+<http://www.si2.com/1159> <http://aemet.linkeddata.es/ontology/stationName> "SAN VICENTE DE LA BARQUERA" .
+<http://www.si2.com/9294E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "012831W" .
+<http://www.si2.com/9294E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "295" .
+<http://www.si2.com/9294E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "421155N" .
+<http://www.si2.com/9294E> <http://aemet.linkeddata.es/ontology/Province> "NAVARRA" .
+<http://www.si2.com/9294E> <http://aemet.linkeddata.es/ontology/indsinop> "08087" .
+<http://www.si2.com/9294E> <http://aemet.linkeddata.es/ontology/stationName> "BARDENAS REALES, BASE AÉREA " .
+<http://www.si2.com/2444> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "044048W" .
+<http://www.si2.com/2444> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1130" .
+<http://www.si2.com/2444> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "403933N" .
+<http://www.si2.com/2444> <http://aemet.linkeddata.es/ontology/Province> "AVILA" .
+<http://www.si2.com/2444> <http://aemet.linkeddata.es/ontology/indsinop> "08210" .
+<http://www.si2.com/2444> <http://aemet.linkeddata.es/ontology/stationName> "ÁVILA" .
+<http://www.si2.com/1055B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "023037W" .
+<http://www.si2.com/1055B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "12" .
+<http://www.si2.com/1055B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432237N" .
+<http://www.si2.com/1055B> <http://aemet.linkeddata.es/ontology/Province> "BIZKAIA" .
+<http://www.si2.com/1055B> <http://aemet.linkeddata.es/ontology/indsinop> "08024" .
+<http://www.si2.com/1055B> <http://aemet.linkeddata.es/ontology/stationName> "LEKEITIO" .
+<http://www.si2.com/8178D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "015144W" .
+<http://www.si2.com/8178D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "674" .
+<http://www.si2.com/8178D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "390020N" .
+<http://www.si2.com/8178D> <http://aemet.linkeddata.es/ontology/Province> "ALBACETE" .
+<http://www.si2.com/8178D> <http://aemet.linkeddata.es/ontology/indsinop> "08279" .
+<http://www.si2.com/8178D> <http://aemet.linkeddata.es/ontology/stationName> "ALBACETE" .
+<http://www.si2.com/3195> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034041W" .
+<http://www.si2.com/3195> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "667" .
+<http://www.si2.com/3195> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402443N" .
+<http://www.si2.com/3195> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3195> <http://aemet.linkeddata.es/ontology/indsinop> "08222" .
+<http://www.si2.com/3195> <http://aemet.linkeddata.es/ontology/stationName> "MADRID, RETIRO" .
+<http://www.si2.com/3168A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "031000W" .
+<http://www.si2.com/3168A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "685" .
+<http://www.si2.com/3168A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "403805N" .
+<http://www.si2.com/3168A> <http://aemet.linkeddata.es/ontology/Province> "GUADALAJARA" .
+<http://www.si2.com/3168A> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/3168A> <http://aemet.linkeddata.es/ontology/stationName> "GUADALAJARA, INSTITUTO" .
+<http://www.si2.com/1050J> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "022448W" .
+<http://www.si2.com/1050J> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "120" .
+<http://www.si2.com/1050J> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "431234N" .
+<http://www.si2.com/1050J> <http://aemet.linkeddata.es/ontology/Province> "GIPUZKOA" .
+<http://www.si2.com/1050J> <http://aemet.linkeddata.es/ontology/indsinop> "08036" .
+<http://www.si2.com/1050J> <http://aemet.linkeddata.es/ontology/stationName> "ELGOIBAR" .
+<http://www.si2.com/0324A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "021146E" .
+<http://www.si2.com/0324A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "675" .
+<http://www.si2.com/0324A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "421129N" .
+<http://www.si2.com/0324A> <http://aemet.linkeddata.es/ontology/Province> "GIRONA" .
+<http://www.si2.com/0324A> <http://aemet.linkeddata.es/ontology/indsinop> "08118" .
+<http://www.si2.com/0324A> <http://aemet.linkeddata.es/ontology/stationName> "RIPOLL" .
+<http://www.si2.com/6106X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "044454W" .
+<http://www.si2.com/6106X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "408" .
+<http://www.si2.com/6106X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "370146N" .
+<http://www.si2.com/6106X> <http://aemet.linkeddata.es/ontology/Province> "MALAGA" .
+<http://www.si2.com/6106X> <http://aemet.linkeddata.es/ontology/indsinop> "08413" .
+<http://www.si2.com/6106X> <http://aemet.linkeddata.es/ontology/stationName> "ANTEQUERA" .
+<http://www.si2.com/8501> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "000224W" .
+<http://www.si2.com/8501> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "25" .
+<http://www.si2.com/8501> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "395920N" .
+<http://www.si2.com/8501> <http://aemet.linkeddata.es/ontology/Province> "CASTELLON" .
+<http://www.si2.com/8501> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/8501> <http://aemet.linkeddata.es/ontology/stationName> "CASTELLÓN DE LA PLANA" .
+<http://www.si2.com/2331> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033713W" .
+<http://www.si2.com/2331> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "891" .
+<http://www.si2.com/2331> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422125N" .
+<http://www.si2.com/2331> <http://aemet.linkeddata.es/ontology/Province> "BURGOS" .
+<http://www.si2.com/2331> <http://aemet.linkeddata.es/ontology/indsinop> "08075" .
+<http://www.si2.com/2331> <http://aemet.linkeddata.es/ontology/stationName> "BURGOS AEROPUERTO" .
+<http://www.si2.com/1690A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "075135W" .
+<http://www.si2.com/1690A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "143" .
+<http://www.si2.com/1690A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "421931N" .
+<http://www.si2.com/1690A> <http://aemet.linkeddata.es/ontology/Province> "OURENSE" .
+<http://www.si2.com/1690A> <http://aemet.linkeddata.es/ontology/indsinop> "08048" .
+<http://www.si2.com/1690A> <http://aemet.linkeddata.es/ontology/stationName> "OURENSE" .
+<http://www.si2.com/9208E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "004023W" .
+<http://www.si2.com/9208E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1040" .
+<http://www.si2.com/9208E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "424232N" .
+<http://www.si2.com/9208E> <http://aemet.linkeddata.es/ontology/Province> "HUESCA" .
+<http://www.si2.com/9208E> <http://aemet.linkeddata.es/ontology/indsinop> "08095" .
+<http://www.si2.com/9208E> <http://aemet.linkeddata.es/ontology/stationName> "ARAGÜÉS DEL PUERTO" .
+<http://www.si2.com/9771C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "003553E" .
+<http://www.si2.com/9771C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "185" .
+<http://www.si2.com/9771C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413734N" .
+<http://www.si2.com/9771C> <http://aemet.linkeddata.es/ontology/Province> "LLEIDA" .
+<http://www.si2.com/9771C> <http://aemet.linkeddata.es/ontology/indsinop> "08171" .
+<http://www.si2.com/9771C> <http://aemet.linkeddata.es/ontology/stationName> "LLEIDA" .
+<http://www.si2.com/0201D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "021200E" .
+<http://www.si2.com/0201D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "6" .
+<http://www.si2.com/0201D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "412326N" .
+<http://www.si2.com/0201D> <http://aemet.linkeddata.es/ontology/Province> "BARCELONA" .
+<http://www.si2.com/0201D> <http://aemet.linkeddata.es/ontology/indsinop> "08180" .
+<http://www.si2.com/0201D> <http://aemet.linkeddata.es/ontology/stationName> "BARCELONA" .
+<http://www.si2.com/3266A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040831W" .
+<http://www.si2.com/3266A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1532" .
+<http://www.si2.com/3266A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "404223N" .
+<http://www.si2.com/3266A> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3266A> <http://aemet.linkeddata.es/ontology/indsinop> "08217" .
+<http://www.si2.com/3266A> <http://aemet.linkeddata.es/ontology/stationName> "PUERTO ALTO DEL LEÓN" .
+<http://www.si2.com/2150H> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "032831W" .
+<http://www.si2.com/2150H> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1860" .
+<http://www.si2.com/2150H> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "411131N" .
+<http://www.si2.com/2150H> <http://aemet.linkeddata.es/ontology/Province> "SEGOVIA" .
+<http://www.si2.com/2150H> <http://aemet.linkeddata.es/ontology/indsinop> "08143" .
+<http://www.si2.com/2150H> <http://aemet.linkeddata.es/ontology/stationName> "LA PINILLA, ESTACIÓN DE ESQUÍ" .
+<http://www.si2.com/8025> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "002939W" .
+<http://www.si2.com/8025> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "81" .
+<http://www.si2.com/8025> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "382221N" .
+<http://www.si2.com/8025> <http://aemet.linkeddata.es/ontology/Province> "ALICANTE" .
+<http://www.si2.com/8025> <http://aemet.linkeddata.es/ontology/indsinop> "08359" .
+<http://www.si2.com/8025> <http://aemet.linkeddata.es/ontology/stationName> "ALICANTE/ALACANT" .
+<http://www.si2.com/8177A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "013936W" .
+<http://www.si2.com/8177A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "880" .
+<http://www.si2.com/8177A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385609N" .
+<http://www.si2.com/8177A> <http://aemet.linkeddata.es/ontology/Province> "ALBACETE" .
+<http://www.si2.com/8177A> <http://aemet.linkeddata.es/ontology/indsinop> "08278" .
+<http://www.si2.com/8177A> <http://aemet.linkeddata.es/ontology/stationName> "CHINCHILLA" .
+<http://www.si2.com/1207U> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053716W" .
+<http://www.si2.com/1207U> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "26" .
+<http://www.si2.com/1207U> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "433123N" .
+<http://www.si2.com/1207U> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1207U> <http://aemet.linkeddata.es/ontology/indsinop> "08014" .
+<http://www.si2.com/1207U> <http://aemet.linkeddata.es/ontology/stationName> "GIJÓN, CAMPUS" .
+<http://www.si2.com/4642E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "065442W" .
+<http://www.si2.com/4642E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "19" .
+<http://www.si2.com/4642E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "371642N" .
+<http://www.si2.com/4642E> <http://aemet.linkeddata.es/ontology/Province> "HUELVA" .
+<http://www.si2.com/4642E> <http://aemet.linkeddata.es/ontology/indsinop> "08383" .
+<http://www.si2.com/4642E> <http://aemet.linkeddata.es/ontology/stationName> "HUELVA, RONDA ESTE" .
+<http://www.si2.com/C430E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "162958W" .
+<http://www.si2.com/C430E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "2371" .
+<http://www.si2.com/C430E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "281832N" .
+<http://www.si2.com/C430E> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C430E> <http://aemet.linkeddata.es/ontology/indsinop> "60010" .
+<http://www.si2.com/C430E> <http://aemet.linkeddata.es/ontology/stationName> "IZAÑA" .
+<http://www.si2.com/2503X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "044113W" .
+<http://www.si2.com/2503X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "740" .
+<http://www.si2.com/2503X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "411933N" .
+<http://www.si2.com/2503X> <http://aemet.linkeddata.es/ontology/Province> "VALLADOLID" .
+<http://www.si2.com/2503X> <http://aemet.linkeddata.es/ontology/indsinop> "08142" .
+<http://www.si2.com/2503X> <http://aemet.linkeddata.es/ontology/stationName> "OLMEDO" .
+<http://www.si2.com/9091O> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024406W" .
+<http://www.si2.com/9091O> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "513" .
+<http://www.si2.com/9091O> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425255N" .
+<http://www.si2.com/9091O> <http://aemet.linkeddata.es/ontology/Province> "ARABA/ALAVA" .
+<http://www.si2.com/9091O> <http://aemet.linkeddata.es/ontology/indsinop> "08080" .
+<http://www.si2.com/9091O> <http://aemet.linkeddata.es/ontology/stationName> "FORONDA-TXOKIZA" .
+<http://www.si2.com/8096> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "020755W" .
+<http://www.si2.com/8096> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "948" .
+<http://www.si2.com/8096> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "400402N" .
+<http://www.si2.com/8096> <http://aemet.linkeddata.es/ontology/Province> "CUENCA" .
+<http://www.si2.com/8096> <http://aemet.linkeddata.es/ontology/indsinop> "08231" .
+<http://www.si2.com/8096> <http://aemet.linkeddata.es/ontology/stationName> "CUENCA" .
+<http://www.si2.com/3519X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "060509W" .
+<http://www.si2.com/3519X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "415" .
+<http://www.si2.com/3519X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "400235N" .
+<http://www.si2.com/3519X> <http://aemet.linkeddata.es/ontology/Province> "CACERES" .
+<http://www.si2.com/3519X> <http://aemet.linkeddata.es/ontology/indsinop> "08252" .
+<http://www.si2.com/3519X> <http://aemet.linkeddata.es/ontology/stationName> "PLASENCIA" .
+<http://www.si2.com/9381> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "011818W" .
+<http://www.si2.com/9381> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "932" .
+<http://www.si2.com/9381> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405154N" .
+<http://www.si2.com/9381> <http://aemet.linkeddata.es/ontology/Province> "TERUEL" .
+<http://www.si2.com/9381> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/9381> <http://aemet.linkeddata.es/ontology/stationName> "CALAMOCHA, AERÓDROMO" .
+<http://www.si2.com/7031X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "004821W" .
+<http://www.si2.com/7031X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "4" .
+<http://www.si2.com/7031X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "374642N" .
+<http://www.si2.com/7031X> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7031X> <http://aemet.linkeddata.es/ontology/indsinop> "08433" .
+<http://www.si2.com/7031X> <http://aemet.linkeddata.es/ontology/stationName> "SAN JAVIER AEROPUERTO" .
+<http://www.si2.com/C929I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "175320W" .
+<http://www.si2.com/C929I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "32" .
+<http://www.si2.com/C929I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "274908N" .
+<http://www.si2.com/C929I> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C929I> <http://aemet.linkeddata.es/ontology/indsinop> "60001" .
+<http://www.si2.com/C929I> <http://aemet.linkeddata.es/ontology/stationName> "HIERRO AEROPUERTO" .
+<http://www.si2.com/2117D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034434W" .
+<http://www.si2.com/2117D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "790" .
+<http://www.si2.com/2117D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413957N" .
+<http://www.si2.com/2117D> <http://aemet.linkeddata.es/ontology/Province> "BURGOS" .
+<http://www.si2.com/2117D> <http://aemet.linkeddata.es/ontology/indsinop> "08144" .
+<http://www.si2.com/2117D> <http://aemet.linkeddata.es/ontology/stationName> "ARANDA DE DUERO" .
+<http://www.si2.com/8523X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "002547E" .
+<http://www.si2.com/8523X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "111" .
+<http://www.si2.com/8523X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "403315N" .
+<http://www.si2.com/8523X> <http://aemet.linkeddata.es/ontology/Province> "CASTELLON" .
+<http://www.si2.com/8523X> <http://aemet.linkeddata.es/ontology/indsinop> "08239" .
+<http://www.si2.com/8523X> <http://aemet.linkeddata.es/ontology/stationName> "VINARÒS" .
+<http://www.si2.com/2755X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "054000W" .
+<http://www.si2.com/2755X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "715" .
+<http://www.si2.com/2755X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "420039N" .
+<http://www.si2.com/2755X> <http://aemet.linkeddata.es/ontology/Province> "ZAMORA" .
+<http://www.si2.com/2755X> <http://aemet.linkeddata.es/ontology/indsinop> "08056" .
+<http://www.si2.com/2755X> <http://aemet.linkeddata.es/ontology/stationName> "BENAVENTE" .
+<http://www.si2.com/5973> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "061528W" .
+<http://www.si2.com/5973> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "2" .
+<http://www.si2.com/5973> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "362959N" .
+<http://www.si2.com/5973> <http://aemet.linkeddata.es/ontology/Province> "CADIZ" .
+<http://www.si2.com/5973> <http://aemet.linkeddata.es/ontology/indsinop> "08452" .
+<http://www.si2.com/5973> <http://aemet.linkeddata.es/ontology/stationName> "CÁDIZ" .
+<http://www.si2.com/8175> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "015123W" .
+<http://www.si2.com/8175> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "702" .
+<http://www.si2.com/8175> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385715N" .
+<http://www.si2.com/8175> <http://aemet.linkeddata.es/ontology/Province> "ALBACETE" .
+<http://www.si2.com/8175> <http://aemet.linkeddata.es/ontology/indsinop> "08280" .
+<http://www.si2.com/8175> <http://aemet.linkeddata.es/ontology/stationName> "ALBACETE BASE AÉREA" .
+<http://www.si2.com/1473A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "083738W" .
+<http://www.si2.com/1473A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "100" .
+<http://www.si2.com/1473A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "424418N" .
+<http://www.si2.com/1473A> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1473A> <http://aemet.linkeddata.es/ontology/indsinop> "08039" .
+<http://www.si2.com/1473A> <http://aemet.linkeddata.es/ontology/stationName> "PADRÓN" .
+<http://www.si2.com/C619I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "154850W" .
+<http://www.si2.com/C619I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "10" .
+<http://www.si2.com/C619I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "280003N" .
+<http://www.si2.com/C619I> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C619I> <http://aemet.linkeddata.es/ontology/indsinop> "60027" .
+<http://www.si2.com/C619I> <http://aemet.linkeddata.es/ontology/stationName> "LA ALDEA DE SAN NICOLÁS" .
+<http://www.si2.com/2539> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "045120W" .
+<http://www.si2.com/2539> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "846" .
+<http://www.si2.com/2539> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "414243N" .
+<http://www.si2.com/2539> <http://aemet.linkeddata.es/ontology/Province> "VALLADOLID" .
+<http://www.si2.com/2539> <http://aemet.linkeddata.es/ontology/indsinop> "08140" .
+<http://www.si2.com/2539> <http://aemet.linkeddata.es/ontology/stationName> "VALLADOLID AEROPUERTO" .
+<http://www.si2.com/5910> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "061957W" .
+<http://www.si2.com/5910> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "21" .
+<http://www.si2.com/5910> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "363820N" .
+<http://www.si2.com/5910> <http://aemet.linkeddata.es/ontology/Province> "CADIZ" .
+<http://www.si2.com/5910> <http://aemet.linkeddata.es/ontology/indsinop> "08449" .
+<http://www.si2.com/5910> <http://aemet.linkeddata.es/ontology/stationName> "ROTA, BASE NAVAL" .
+<http://www.si2.com/6156X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "042854W" .
+<http://www.si2.com/6156X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "54" .
+<http://www.si2.com/6156X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364304N" .
+<http://www.si2.com/6156X> <http://aemet.linkeddata.es/ontology/Province> "MALAGA" .
+<http://www.si2.com/6156X> <http://aemet.linkeddata.es/ontology/indsinop> "08481" .
+<http://www.si2.com/6156X> <http://aemet.linkeddata.es/ontology/stationName> "MÁLAGA, CENTRO METEOROLÓGICO" .
+<http://www.si2.com/9720X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "010858E" .
+<http://www.si2.com/9720X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "388" .
+<http://www.si2.com/9720X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413902N" .
+<http://www.si2.com/9720X> <http://aemet.linkeddata.es/ontology/Province> "LLEIDA" .
+<http://www.si2.com/9720X> <http://aemet.linkeddata.es/ontology/indsinop> "08173" .
+<http://www.si2.com/9720X> <http://aemet.linkeddata.es/ontology/stationName> "TÀRREGA" .
+<http://www.si2.com/9244X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "011249W" .
+<http://www.si2.com/9244X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "626" .
+<http://www.si2.com/9244X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422927N" .
+<http://www.si2.com/9244X> <http://aemet.linkeddata.es/ontology/Province> "ZARAGOZA" .
+<http://www.si2.com/9244X> <http://aemet.linkeddata.es/ontology/indsinop> "08090" .
+<http://www.si2.com/9244X> <http://aemet.linkeddata.es/ontology/stationName> "SOS DEL REY CATÓLICO" .
+<http://www.si2.com/B569X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "032841E" .
+<http://www.si2.com/B569X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "66" .
+<http://www.si2.com/B569X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "394256N" .
+<http://www.si2.com/B569X> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B569X> <http://aemet.linkeddata.es/ontology/indsinop> "08311" .
+<http://www.si2.com/B569X> <http://aemet.linkeddata.es/ontology/stationName> "CAPDEPERA" .
+<http://www.si2.com/6325O> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "022125W" .
+<http://www.si2.com/6325O> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "21" .
+<http://www.si2.com/6325O> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "365047N" .
+<http://www.si2.com/6325O> <http://aemet.linkeddata.es/ontology/Province> "ALMERIA" .
+<http://www.si2.com/6325O> <http://aemet.linkeddata.es/ontology/indsinop> "08487" .
+<http://www.si2.com/6325O> <http://aemet.linkeddata.es/ontology/stationName> "ALMERÍA AEROPUERTO" .
+<http://www.si2.com/1078I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030617W" .
+<http://www.si2.com/1078I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "208" .
+<http://www.si2.com/1078I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "431212N" .
+<http://www.si2.com/1078I> <http://aemet.linkeddata.es/ontology/Province> "BIZKAIA" .
+<http://www.si2.com/1078I> <http://aemet.linkeddata.es/ontology/indsinop> "08035" .
+<http://www.si2.com/1078I> <http://aemet.linkeddata.es/ontology/stationName> "GÜEÑES" .
+<http://www.si2.com/1437O> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "085524W" .
+<http://www.si2.com/1437O> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "685" .
+<http://www.si2.com/1437O> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "424314N" .
+<http://www.si2.com/1437O> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1437O> <http://aemet.linkeddata.es/ontology/indsinop> "08043" .
+<http://www.si2.com/1437O> <http://aemet.linkeddata.es/ontology/stationName> "MONTE IROITE" .
+<http://www.si2.com/2775X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "061647W" .
+<http://www.si2.com/2775X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "850" .
+<http://www.si2.com/2775X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "415629N" .
+<http://www.si2.com/2775X> <http://aemet.linkeddata.es/ontology/Province> "ZAMORA" .
+<http://www.si2.com/2775X> <http://aemet.linkeddata.es/ontology/indsinop> "08125" .
+<http://www.si2.com/2775X> <http://aemet.linkeddata.es/ontology/stationName> "VILLARDECIERVOS" .
+<http://www.si2.com/3168D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030900W" .
+<http://www.si2.com/3168D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "721" .
+<http://www.si2.com/3168D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "403749N" .
+<http://www.si2.com/3168D> <http://aemet.linkeddata.es/ontology/Province> "GUADALAJARA" .
+<http://www.si2.com/3168D> <http://aemet.linkeddata.es/ontology/indsinop> "08226" .
+<http://www.si2.com/3168D> <http://aemet.linkeddata.es/ontology/stationName> "GUADALAJARA" .
+<http://www.si2.com/7275C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "010935W" .
+<http://www.si2.com/7275C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "640" .
+<http://www.si2.com/7275C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "383606N" .
+<http://www.si2.com/7275C> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7275C> <http://aemet.linkeddata.es/ontology/indsinop> "08356" .
+<http://www.si2.com/7275C> <http://aemet.linkeddata.es/ontology/stationName> "YECLA" .
+<http://www.si2.com/5960> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "060321W" .
+<http://www.si2.com/5960> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "27" .
+<http://www.si2.com/5960> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364502N" .
+<http://www.si2.com/5960> <http://aemet.linkeddata.es/ontology/Province> "CADIZ" .
+<http://www.si2.com/5960> <http://aemet.linkeddata.es/ontology/indsinop> "08451" .
+<http://www.si2.com/5960> <http://aemet.linkeddata.es/ontology/stationName> "JEREZ DE LA FRONTERA AEROPUERTO" .
+<http://www.si2.com/6001> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053556W" .
+<http://www.si2.com/6001> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "32" .
+<http://www.si2.com/6001> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "360050N" .
+<http://www.si2.com/6001> <http://aemet.linkeddata.es/ontology/Province> "CADIZ" .
+<http://www.si2.com/6001> <http://aemet.linkeddata.es/ontology/indsinop> "08458" .
+<http://www.si2.com/6001> <http://aemet.linkeddata.es/ontology/stationName> "TARIFA" .
+<http://www.si2.com/6332X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "015413W" .
+<http://www.si2.com/6332X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "16" .
+<http://www.si2.com/6332X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "365849N" .
+<http://www.si2.com/6332X> <http://aemet.linkeddata.es/ontology/Province> "ALMERIA" .
+<http://www.si2.com/6332X> <http://aemet.linkeddata.es/ontology/indsinop> "08488" .
+<http://www.si2.com/6332X> <http://aemet.linkeddata.es/ontology/stationName> "CARBONERAS" .
+<http://www.si2.com/9987P> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "004836E" .
+<http://www.si2.com/9987P> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1" .
+<http://www.si2.com/9987P> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "404157N" .
+<http://www.si2.com/9987P> <http://aemet.linkeddata.es/ontology/Province> "TARRAGONA" .
+<http://www.si2.com/9987P> <http://aemet.linkeddata.es/ontology/indsinop> "08240" .
+<http://www.si2.com/9987P> <http://aemet.linkeddata.es/ontology/stationName> "SANT JAUME D'ENVEJA" .
+<http://www.si2.com/4061X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030249W" .
+<http://www.si2.com/4061X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "691" .
+<http://www.si2.com/4061X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "393551N" .
+<http://www.si2.com/4061X> <http://aemet.linkeddata.es/ontology/Province> "TOLEDO" .
+<http://www.si2.com/4061X> <http://aemet.linkeddata.es/ontology/indsinop> "08275" .
+<http://www.si2.com/4061X> <http://aemet.linkeddata.es/ontology/stationName> "QUINTANAR DE LA ORDEN" .
+<http://www.si2.com/5192> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "023815W" .
+<http://www.si2.com/5192> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "862" .
+<http://www.si2.com/5192> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "382921N" .
+<http://www.si2.com/5192> <http://aemet.linkeddata.es/ontology/Province> "JAEN" .
+<http://www.si2.com/5192> <http://aemet.linkeddata.es/ontology/indsinop> "08354" .
+<http://www.si2.com/5192> <http://aemet.linkeddata.es/ontology/stationName> "VILLARRODRIGO" .
+<http://www.si2.com/3469> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "062235W" .
+<http://www.si2.com/3469> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "459" .
+<http://www.si2.com/3469> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392833N" .
+<http://www.si2.com/3469> <http://aemet.linkeddata.es/ontology/Province> "CACERES" .
+<http://www.si2.com/3469> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/3469> <http://aemet.linkeddata.es/ontology/stationName> "CÁCERES, CIUDAD" .
+<http://www.si2.com/C649I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "152343W" .
+<http://www.si2.com/C649I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "32" .
+<http://www.si2.com/C649I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "275504N" .
+<http://www.si2.com/C649I> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C649I> <http://aemet.linkeddata.es/ontology/indsinop> "60030" .
+<http://www.si2.com/C649I> <http://aemet.linkeddata.es/ontology/stationName> "GRAN CANARIA AEROPUERTO" .
+<http://www.si2.com/1249I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "055227W" .
+<http://www.si2.com/1249I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "336" .
+<http://www.si2.com/1249I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432112N" .
+<http://www.si2.com/1249I> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1249I> <http://aemet.linkeddata.es/ontology/indsinop> "08015" .
+<http://www.si2.com/1249I> <http://aemet.linkeddata.es/ontology/stationName> "OVIEDO" .
+<http://www.si2.com/5641X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "050506W" .
+<http://www.si2.com/5641X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "130" .
+<http://www.si2.com/5641X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "373058N" .
+<http://www.si2.com/5641X> <http://aemet.linkeddata.es/ontology/Province> "SEVILLA" .
+<http://www.si2.com/5641X> <http://aemet.linkeddata.es/ontology/indsinop> "08395" .
+<http://www.si2.com/5641X> <http://aemet.linkeddata.es/ontology/stationName> "ÉCIJA" .
+<http://www.si2.com/2946X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "063600W" .
+<http://www.si2.com/2946X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "680" .
+<http://www.si2.com/2946X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "403806N" .
+<http://www.si2.com/2946X> <http://aemet.linkeddata.es/ontology/Province> "SALAMANCA" .
+<http://www.si2.com/2946X> <http://aemet.linkeddata.es/ontology/indsinop> "08195" .
+<http://www.si2.com/2946X> <http://aemet.linkeddata.es/ontology/stationName> "SAELICES EL CHICO" .
+<http://www.si2.com/4358X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "055250W" .
+<http://www.si2.com/4358X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "273" .
+<http://www.si2.com/4358X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385720N" .
+<http://www.si2.com/4358X> <http://aemet.linkeddata.es/ontology/Province> "BADAJOZ" .
+<http://www.si2.com/4358X> <http://aemet.linkeddata.es/ontology/indsinop> "08333" .
+<http://www.si2.com/4358X> <http://aemet.linkeddata.es/ontology/stationName> "DON BENITO" .
+<http://www.si2.com/C447A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "161946W" .
+<http://www.si2.com/C447A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "632" .
+<http://www.si2.com/C447A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "282839N" .
+<http://www.si2.com/C447A> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C447A> <http://aemet.linkeddata.es/ontology/indsinop> "60015" .
+<http://www.si2.com/C447A> <http://aemet.linkeddata.es/ontology/stationName> "TENERIFE NORTE AEROPUERTO" .
+<http://www.si2.com/3110C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033649W" .
+<http://www.si2.com/3110C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1026" .
+<http://www.si2.com/3110C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "410025N" .
+<http://www.si2.com/3110C> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3110C> <http://aemet.linkeddata.es/ontology/indsinop> "08146" .
+<http://www.si2.com/3110C> <http://aemet.linkeddata.es/ontology/stationName> "BUITRAGO DEL LOZOYA" .
+<http://www.si2.com/7002Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "013513W" .
+<http://www.si2.com/7002Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "26" .
+<http://www.si2.com/7002Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "372502N" .
+<http://www.si2.com/7002Y> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7002Y> <http://aemet.linkeddata.es/ontology/indsinop> "08432" .
+<http://www.si2.com/7002Y> <http://aemet.linkeddata.es/ontology/stationName> "ÁGUILAS" .
+<http://www.si2.com/9434> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "010015W" .
+<http://www.si2.com/9434> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "249" .
+<http://www.si2.com/9434> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413938N" .
+<http://www.si2.com/9434> <http://aemet.linkeddata.es/ontology/Province> "ZARAGOZA" .
+<http://www.si2.com/9434> <http://aemet.linkeddata.es/ontology/indsinop> "08160" .
+<http://www.si2.com/9434> <http://aemet.linkeddata.es/ontology/stationName> "ZARAGOZA AEROPUERTO" .
+<http://www.si2.com/8416Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "002159W" .
+<http://www.si2.com/8416Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "11" .
+<http://www.si2.com/8416Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392850N" .
+<http://www.si2.com/8416Y> <http://aemet.linkeddata.es/ontology/Province> "VALENCIA" .
+<http://www.si2.com/8416Y> <http://aemet.linkeddata.es/ontology/indsinop> "08285" .
+<http://www.si2.com/8416Y> <http://aemet.linkeddata.es/ontology/stationName> "VALÈNCIA, VIVEROS" .
+<http://www.si2.com/9091R> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024359W" .
+<http://www.si2.com/9091R> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "513" .
+<http://www.si2.com/9091R> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425219N" .
+<http://www.si2.com/9091R> <http://aemet.linkeddata.es/ontology/Province> "ARABA/ALAVA" .
+<http://www.si2.com/9091R> <http://aemet.linkeddata.es/ontology/indsinop> "08080" .
+<http://www.si2.com/9091R> <http://aemet.linkeddata.es/ontology/stationName> "VITORIA GASTEIZ AEROPUERTO" .
+<http://www.si2.com/9814A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "000642W" .
+<http://www.si2.com/9814A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1020" .
+<http://www.si2.com/9814A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "423736N" .
+<http://www.si2.com/9814A> <http://aemet.linkeddata.es/ontology/Province> "HUESCA" .
+<http://www.si2.com/9814A> <http://aemet.linkeddata.es/ontology/indsinop> "08101" .
+<http://www.si2.com/9814A> <http://aemet.linkeddata.es/ontology/stationName> "TORLA" .
+<http://www.si2.com/C439J> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "162256W" .
+<http://www.si2.com/C439J> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "115" .
+<http://www.si2.com/C439J> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "281906N" .
+<http://www.si2.com/C439J> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C439J> <http://aemet.linkeddata.es/ontology/indsinop> "60018" .
+<http://www.si2.com/C439J> <http://aemet.linkeddata.es/ontology/stationName> "GÜÍMAR" .
+<http://www.si2.com/7031> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "004812W" .
+<http://www.si2.com/7031> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "4" .
+<http://www.si2.com/7031> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "374720N" .
+<http://www.si2.com/7031> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7031> <http://aemet.linkeddata.es/ontology/indsinop> "08433" .
+<http://www.si2.com/7031> <http://aemet.linkeddata.es/ontology/stationName> "SAN JAVIER AEROPUERTO" .
+<http://www.si2.com/1002Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "013235W" .
+<http://www.si2.com/1002Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "183" .
+<http://www.si2.com/1002Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "430809N" .
+<http://www.si2.com/1002Y> <http://aemet.linkeddata.es/ontology/Province> "NAVARRA" .
+<http://www.si2.com/1002Y> <http://aemet.linkeddata.es/ontology/indsinop> "08030" .
+<http://www.si2.com/1002Y> <http://aemet.linkeddata.es/ontology/stationName> "BAZTAN, IRURITA " .
+<http://www.si2.com/1631E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "071657W" .
+<http://www.si2.com/1631E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "840" .
+<http://www.si2.com/1631E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422022N" .
+<http://www.si2.com/1631E> <http://aemet.linkeddata.es/ontology/Province> "OURENSE" .
+<http://www.si2.com/1631E> <http://aemet.linkeddata.es/ontology/indsinop> "08051" .
+<http://www.si2.com/1631E> <http://aemet.linkeddata.es/ontology/stationName> "A POBRA DE TRIVES" .
+<http://www.si2.com/1208A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053943W" .
+<http://www.si2.com/1208A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "22" .
+<http://www.si2.com/1208A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "433230N" .
+<http://www.si2.com/1208A> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1208A> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/1208A> <http://aemet.linkeddata.es/ontology/stationName> "GIJÓN. LA MERCED" .
+<http://www.si2.com/6277B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030114W" .
+<http://www.si2.com/6277B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "8" .
+<http://www.si2.com/6277B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364450N" .
+<http://www.si2.com/6277B> <http://aemet.linkeddata.es/ontology/Province> "ALMERIA" .
+<http://www.si2.com/6277B> <http://aemet.linkeddata.es/ontology/indsinop> "08486" .
+<http://www.si2.com/6277B> <http://aemet.linkeddata.es/ontology/stationName> "ADRA" .
+<http://www.si2.com/3130C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "023705W" .
+<http://www.si2.com/3130C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1005" .
+<http://www.si2.com/3130C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "410511N" .
+<http://www.si2.com/3130C> <http://aemet.linkeddata.es/ontology/Province> "GUADALAJARA" .
+<http://www.si2.com/3130C> <http://aemet.linkeddata.es/ontology/indsinop> "08150" .
+<http://www.si2.com/3130C> <http://aemet.linkeddata.es/ontology/stationName> "SIGÜENZA" .
+<http://www.si2.com/1428> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "082438W" .
+<http://www.si2.com/1428> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "370" .
+<http://www.si2.com/1428> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425317N" .
+<http://www.si2.com/1428> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1428> <http://aemet.linkeddata.es/ontology/indsinop> "08042" .
+<http://www.si2.com/1428> <http://aemet.linkeddata.es/ontology/stationName> "SANTIAGO DE COMPOSTELA AEROPUERTO" .
+<http://www.si2.com/1083L> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "031402W" .
+<http://www.si2.com/1083L> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "45" .
+<http://www.si2.com/1083L> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432341N" .
+<http://www.si2.com/1083L> <http://aemet.linkeddata.es/ontology/Province> "CANTABRIA" .
+<http://www.si2.com/1083L> <http://aemet.linkeddata.es/ontology/indsinop> "08020" .
+<http://www.si2.com/1083L> <http://aemet.linkeddata.es/ontology/stationName> "CASTRO URDIALES" .
+<http://www.si2.com/1700X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "080533W" .
+<http://www.si2.com/1700X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "400" .
+<http://www.si2.com/1700X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422517N" .
+<http://www.si2.com/1700X> <http://aemet.linkeddata.es/ontology/Province> "OURENSE" .
+<http://www.si2.com/1700X> <http://aemet.linkeddata.es/ontology/indsinop> "08047" .
+<http://www.si2.com/1700X> <http://aemet.linkeddata.es/ontology/stationName> "CARBALLIÑO, O" .
+<http://www.si2.com/0372C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024549E" .
+<http://www.si2.com/0372C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "157" .
+<http://www.si2.com/0372C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "420616N" .
+<http://www.si2.com/0372C> <http://aemet.linkeddata.es/ontology/Province> "GIRONA" .
+<http://www.si2.com/0372C> <http://aemet.linkeddata.es/ontology/indsinop> "08120" .
+<http://www.si2.com/0372C> <http://aemet.linkeddata.es/ontology/stationName> "PORQUERES" .
+<http://www.si2.com/4386B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "060101W" .
+<http://www.si2.com/4386B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "655" .
+<http://www.si2.com/4386B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "381354N" .
+<http://www.si2.com/4386B> <http://aemet.linkeddata.es/ontology/Province> "BADAJOZ" .
+<http://www.si2.com/4386B> <http://aemet.linkeddata.es/ontology/indsinop> "08336" .
+<http://www.si2.com/4386B> <http://aemet.linkeddata.es/ontology/stationName> "LLERENA" .
+<http://www.si2.com/0370B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024931E" .
+<http://www.si2.com/0370B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "95" .
+<http://www.si2.com/0370B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "415848N" .
+<http://www.si2.com/0370B> <http://aemet.linkeddata.es/ontology/Province> "GIRONA" .
+<http://www.si2.com/0370B> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/0370B> <http://aemet.linkeddata.es/ontology/stationName> "GIRONA, ANTIC INSTITUT" .
+<http://www.si2.com/1549> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "063600W" .
+<http://www.si2.com/1549> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "534" .
+<http://www.si2.com/1549> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "423350N" .
+<http://www.si2.com/1549> <http://aemet.linkeddata.es/ontology/Province> "LEON" .
+<http://www.si2.com/1549> <http://aemet.linkeddata.es/ontology/indsinop> "08053" .
+<http://www.si2.com/1549> <http://aemet.linkeddata.es/ontology/stationName> "PONFERRADA" .
+<http://www.si2.com/1024E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "020228W" .
+<http://www.si2.com/1024E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "251" .
+<http://www.si2.com/1024E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "431823N" .
+<http://www.si2.com/1024E> <http://aemet.linkeddata.es/ontology/Province> "GIPUZKOA" .
+<http://www.si2.com/1024E> <http://aemet.linkeddata.es/ontology/indsinop> "08027" .
+<http://www.si2.com/1024E> <http://aemet.linkeddata.es/ontology/stationName> "DONOSTIA/SAN SEBASTIÁN, IGUELDO" .
+<http://www.si2.com/8293X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "003125W" .
+<http://www.si2.com/8293X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "88" .
+<http://www.si2.com/8293X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "390006N" .
+<http://www.si2.com/8293X> <http://aemet.linkeddata.es/ontology/Province> "VALENCIA" .
+<http://www.si2.com/8293X> <http://aemet.linkeddata.es/ontology/indsinop> "08290" .
+<http://www.si2.com/8293X> <http://aemet.linkeddata.es/ontology/stationName> "XÀTIVA" .
+<http://www.si2.com/5051X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "023910W" .
+<http://www.si2.com/5051X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1092" .
+<http://www.si2.com/5051X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "375140N" .
+<http://www.si2.com/5051X> <http://aemet.linkeddata.es/ontology/Province> "GRANADA" .
+<http://www.si2.com/5051X> <http://aemet.linkeddata.es/ontology/indsinop> "08423" .
+<http://www.si2.com/5051X> <http://aemet.linkeddata.es/ontology/stationName> "HUÉSCAR" .
+<http://www.si2.com/4103X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030027W" .
+<http://www.si2.com/4103X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "662" .
+<http://www.si2.com/4103X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "391009N" .
+<http://www.si2.com/4103X> <http://aemet.linkeddata.es/ontology/Province> "CIUDAD REAL" .
+<http://www.si2.com/4103X> <http://aemet.linkeddata.es/ontology/indsinop> "08276" .
+<http://www.si2.com/4103X> <http://aemet.linkeddata.es/ontology/stationName> "TOMELLOSO" .
+<http://www.si2.com/4267X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "050716W" .
+<http://www.si2.com/4267X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "551" .
+<http://www.si2.com/4267X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "382955N" .
+<http://www.si2.com/4267X> <http://aemet.linkeddata.es/ontology/Province> "CORDOBA" .
+<http://www.si2.com/4267X> <http://aemet.linkeddata.es/ontology/indsinop> "08335" .
+<http://www.si2.com/4267X> <http://aemet.linkeddata.es/ontology/stationName> "HINOJOSA DEL DUQUE" .
+<http://www.si2.com/9087> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "023922W" .
+<http://www.si2.com/9087> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "521" .
+<http://www.si2.com/9087> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425059N" .
+<http://www.si2.com/9087> <http://aemet.linkeddata.es/ontology/Province> "ARABA/ALAVA" .
+<http://www.si2.com/9087> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/9087> <http://aemet.linkeddata.es/ontology/stationName> "VITORIA AERÓDROMO" .
+<http://www.si2.com/1331A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "070153W" .
+<http://www.si2.com/1331A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "40" .
+<http://www.si2.com/1331A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "433129N" .
+<http://www.si2.com/1331A> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1331A> <http://aemet.linkeddata.es/ontology/indsinop> "08009" .
+<http://www.si2.com/1331A> <http://aemet.linkeddata.es/ontology/stationName> "CASTROPOL" .
+<http://www.si2.com/4410X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "062308W" .
+<http://www.si2.com/4410X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "228" .
+<http://www.si2.com/4410X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385457N" .
+<http://www.si2.com/4410X> <http://aemet.linkeddata.es/ontology/Province> "BADAJOZ" .
+<http://www.si2.com/4410X> <http://aemet.linkeddata.es/ontology/indsinop> "08331" .
+<http://www.si2.com/4410X> <http://aemet.linkeddata.es/ontology/stationName> "MÉRIDA" .
+<http://www.si2.com/2444C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "044201W" .
+<http://www.si2.com/2444C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1143" .
+<http://www.si2.com/2444C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "403924N" .
+<http://www.si2.com/2444C> <http://aemet.linkeddata.es/ontology/Province> "AVILA" .
+<http://www.si2.com/2444C> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/2444C> <http://aemet.linkeddata.es/ontology/stationName> "ÁVILA, AYUNTAMIENTO" .
+<http://www.si2.com/3259> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040132W" .
+<http://www.si2.com/3259> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "540" .
+<http://www.si2.com/3259> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "395134N" .
+<http://www.si2.com/3259> <http://aemet.linkeddata.es/ontology/Province> "TOLEDO" .
+<http://www.si2.com/3259> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/3259> <http://aemet.linkeddata.es/ontology/stationName> "TOLEDO, LORENZANA" .
+<http://www.si2.com/9563X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "001112W" .
+<http://www.si2.com/9563X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1220" .
+<http://www.si2.com/9563X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402955N" .
+<http://www.si2.com/9563X> <http://aemet.linkeddata.es/ontology/Province> "CASTELLON" .
+<http://www.si2.com/9563X> <http://aemet.linkeddata.es/ontology/indsinop> "08237" .
+<http://www.si2.com/9563X> <http://aemet.linkeddata.es/ontology/stationName> "CASTELLFORT" .
+<http://www.si2.com/5298X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040350W" .
+<http://www.si2.com/5298X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "202" .
+<http://www.si2.com/5298X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "380123N" .
+<http://www.si2.com/5298X> <http://aemet.linkeddata.es/ontology/Province> "JAEN" .
+<http://www.si2.com/5298X> <http://aemet.linkeddata.es/ontology/indsinop> "08347" .
+<http://www.si2.com/5298X> <http://aemet.linkeddata.es/ontology/stationName> "ANDÚJAR" .
+<http://www.si2.com/1037Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "021903W" .
+<http://www.si2.com/1037Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "420" .
+<http://www.si2.com/1037Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "430448N" .
+<http://www.si2.com/1037Y> <http://aemet.linkeddata.es/ontology/Province> "GIPUZKOA" .
+<http://www.si2.com/1037Y> <http://aemet.linkeddata.es/ontology/indsinop> "08037" .
+<http://www.si2.com/1037Y> <http://aemet.linkeddata.es/ontology/stationName> "ZUMARRAGA" .
+<http://www.si2.com/6302A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024647W" .
+<http://www.si2.com/6302A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "885" .
+<http://www.si2.com/6302A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "370829N" .
+<http://www.si2.com/6302A> <http://aemet.linkeddata.es/ontology/Province> "ALMERIA" .
+<http://www.si2.com/6302A> <http://aemet.linkeddata.es/ontology/indsinop> "08427" .
+<http://www.si2.com/6302A> <http://aemet.linkeddata.es/ontology/stationName> "ABLA" .
+<http://www.si2.com/1110> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034908W" .
+<http://www.si2.com/1110> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "64" .
+<http://www.si2.com/1110> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432754N" .
+<http://www.si2.com/1110> <http://aemet.linkeddata.es/ontology/Province> "CANTABRIA" .
+<http://www.si2.com/1110> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/1110> <http://aemet.linkeddata.es/ontology/stationName> "SANTANDER, CIUDAD" .
+<http://www.si2.com/C129Z> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "175455W" .
+<http://www.si2.com/C129Z> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "62" .
+<http://www.si2.com/C129Z> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "283545N" .
+<http://www.si2.com/C129Z> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C129Z> <http://aemet.linkeddata.es/ontology/indsinop> "60004" .
+<http://www.si2.com/C129Z> <http://aemet.linkeddata.es/ontology/stationName> "TAZACORTE" .
+<http://www.si2.com/9573X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "000830W" .
+<http://www.si2.com/9573X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "334" .
+<http://www.si2.com/9573X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "410329N" .
+<http://www.si2.com/9573X> <http://aemet.linkeddata.es/ontology/Province> "TERUEL" .
+<http://www.si2.com/9573X> <http://aemet.linkeddata.es/ontology/indsinop> "08164" .
+<http://www.si2.com/9573X> <http://aemet.linkeddata.es/ontology/stationName> "ALCAÑIZ" .
+<http://www.si2.com/7209> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "014114W" .
+<http://www.si2.com/7209> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "312" .
+<http://www.si2.com/7209> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "373917N" .
+<http://www.si2.com/7209> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7209> <http://aemet.linkeddata.es/ontology/indsinop> "08426" .
+<http://www.si2.com/7209> <http://aemet.linkeddata.es/ontology/stationName> "LORCA" .
+<http://www.si2.com/3338> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "041500W" .
+<http://www.si2.com/3338> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "790" .
+<http://www.si2.com/3338> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402540N" .
+<http://www.si2.com/3338> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3338> <http://aemet.linkeddata.es/ontology/indsinop> "08212" .
+<http://www.si2.com/3338> <http://aemet.linkeddata.es/ontology/stationName> "ROBLEDO DE CHAVELA" .
+<http://www.si2.com/4452> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "064850W" .
+<http://www.si2.com/4452> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "185" .
+<http://www.si2.com/4452> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385300N" .
+<http://www.si2.com/4452> <http://aemet.linkeddata.es/ontology/Province> "BADAJOZ" .
+<http://www.si2.com/4452> <http://aemet.linkeddata.es/ontology/indsinop> "08330" .
+<http://www.si2.com/4452> <http://aemet.linkeddata.es/ontology/stationName> "BADAJOZ AEROPUERTO" .
+<http://www.si2.com/9434P> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "005606W" .
+<http://www.si2.com/9434P> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "254" .
+<http://www.si2.com/9434P> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413715N" .
+<http://www.si2.com/9434P> <http://aemet.linkeddata.es/ontology/Province> "ZARAGOZA" .
+<http://www.si2.com/9434P> <http://aemet.linkeddata.es/ontology/indsinop> "08159" .
+<http://www.si2.com/9434P> <http://aemet.linkeddata.es/ontology/stationName> "ZARAGOZA, VALDESPARTERA" .
+<http://www.si2.com/C459Z> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "163253W" .
+<http://www.si2.com/C459Z> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "25" .
+<http://www.si2.com/C459Z> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "282505N" .
+<http://www.si2.com/C459Z> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C459Z> <http://aemet.linkeddata.es/ontology/indsinop> "60012" .
+<http://www.si2.com/C459Z> <http://aemet.linkeddata.es/ontology/stationName> "PUERTO DE LA CRUZ" .
+<http://www.si2.com/1735X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "074401W" .
+<http://www.si2.com/1735X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "616" .
+<http://www.si2.com/1735X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "420445N" .
+<http://www.si2.com/1735X> <http://aemet.linkeddata.es/ontology/Province> "OURENSE" .
+<http://www.si2.com/1735X> <http://aemet.linkeddata.es/ontology/indsinop> "08050" .
+<http://www.si2.com/1735X> <http://aemet.linkeddata.es/ontology/stationName> "XINZO DE LIMIA" .
+<http://www.si2.com/9263X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "013157W" .
+<http://www.si2.com/9263X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "572" .
+<http://www.si2.com/9263X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "424634N" .
+<http://www.si2.com/9263X> <http://aemet.linkeddata.es/ontology/Province> "NAVARRA" .
+<http://www.si2.com/9263X> <http://aemet.linkeddata.es/ontology/indsinop> "08089" .
+<http://www.si2.com/9263X> <http://aemet.linkeddata.es/ontology/stationName> "ARANGUREN, ILUNDAIN  " .
+<http://www.si2.com/B346X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030109E" .
+<http://www.si2.com/B346X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "120" .
+<http://www.si2.com/B346X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "393118N" .
+<http://www.si2.com/B346X> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B346X> <http://aemet.linkeddata.es/ontology/indsinop> "08310" .
+<http://www.si2.com/B346X> <http://aemet.linkeddata.es/ontology/stationName> "PORRERES" .
+<http://www.si2.com/9771> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "003716E" .
+<http://www.si2.com/9771> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "199" .
+<http://www.si2.com/9771> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413702N" .
+<http://www.si2.com/9771> <http://aemet.linkeddata.es/ontology/Province> "LLEIDA" .
+<http://www.si2.com/9771> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/9771> <http://aemet.linkeddata.es/ontology/stationName> "LLEIDA, OBSERVATORIO" .
+<http://www.si2.com/C139E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "174518W" .
+<http://www.si2.com/C139E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "33" .
+<http://www.si2.com/C139E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "283759N" .
+<http://www.si2.com/C139E> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C139E> <http://aemet.linkeddata.es/ontology/indsinop> "60005" .
+<http://www.si2.com/C139E> <http://aemet.linkeddata.es/ontology/stationName> "LA PALMA AEROPUERTO" .
+<http://www.si2.com/2916A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "062616W" .
+<http://www.si2.com/2916A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "769" .
+<http://www.si2.com/2916A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "410041N" .
+<http://www.si2.com/2916A> <http://aemet.linkeddata.es/ontology/Province> "SALAMANCA" .
+<http://www.si2.com/2916A> <http://aemet.linkeddata.es/ontology/indsinop> "08129" .
+<http://www.si2.com/2916A> <http://aemet.linkeddata.es/ontology/stationName> "VITIGUDINO" .
+<http://www.si2.com/2630X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "052237W" .
+<http://www.si2.com/2630X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1510" .
+<http://www.si2.com/2630X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "430344N" .
+<http://www.si2.com/2630X> <http://aemet.linkeddata.es/ontology/Province> "LEON" .
+<http://www.si2.com/2630X> <http://aemet.linkeddata.es/ontology/indsinop> "08057" .
+<http://www.si2.com/2630X> <http://aemet.linkeddata.es/ontology/stationName> "PUERTO DE SAN ISIDRO" .
+<http://www.si2.com/6058I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "050918W" .
+<http://www.si2.com/6058I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "11" .
+<http://www.si2.com/6058I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "362501N" .
+<http://www.si2.com/6058I> <http://aemet.linkeddata.es/ontology/Province> "MALAGA" .
+<http://www.si2.com/6058I> <http://aemet.linkeddata.es/ontology/indsinop> "08463" .
+<http://www.si2.com/6058I> <http://aemet.linkeddata.es/ontology/stationName> "ESTEPONA" .
+<http://www.si2.com/1041A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "021504W" .
+<http://www.si2.com/1041A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "28" .
+<http://www.si2.com/1041A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "431808N" .
+<http://www.si2.com/1041A> <http://aemet.linkeddata.es/ontology/Province> "GIPUZKOA" .
+<http://www.si2.com/1041A> <http://aemet.linkeddata.es/ontology/indsinop> "08026" .
+<http://www.si2.com/1041A> <http://aemet.linkeddata.es/ontology/stationName> "ZUMAIA" .
+<http://www.si2.com/7145D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "012250W" .
+<http://www.si2.com/7145D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "265" .
+<http://www.si2.com/7145D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "381358N" .
+<http://www.si2.com/7145D> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7145D> <http://aemet.linkeddata.es/ontology/indsinop> "08363" .
+<http://www.si2.com/7145D> <http://aemet.linkeddata.es/ontology/stationName> "CIEZA" .
+<http://www.si2.com/5000C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "052049W" .
+<http://www.si2.com/5000C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "87" .
+<http://www.si2.com/5000C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "355319N" .
+<http://www.si2.com/5000C> <http://aemet.linkeddata.es/ontology/Province> "CEUTA" .
+<http://www.si2.com/5000C> <http://aemet.linkeddata.es/ontology/indsinop> "60320" .
+<http://www.si2.com/5000C> <http://aemet.linkeddata.es/ontology/stationName> "CEUTA" .
+<http://www.si2.com/B434X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "031618E" .
+<http://www.si2.com/B434X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "17" .
+<http://www.si2.com/B434X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392452N" .
+<http://www.si2.com/B434X> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B434X> <http://aemet.linkeddata.es/ontology/indsinop> "08309" .
+<http://www.si2.com/B434X> <http://aemet.linkeddata.es/ontology/stationName> "PORTOCOLOM  " .
+<http://www.si2.com/B248> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024247E" .
+<http://www.si2.com/B248> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1030" .
+<http://www.si2.com/B248> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "394406N" .
+<http://www.si2.com/B248> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B248> <http://aemet.linkeddata.es/ontology/indsinop> "08303" .
+<http://www.si2.com/B248> <http://aemet.linkeddata.es/ontology/stationName> "SIERRA DE ALFABIA, BUNYOLA" .
+<http://www.si2.com/5181D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "025323W" .
+<http://www.si2.com/5181D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "580" .
+<http://www.si2.com/5181D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "381853N" .
+<http://www.si2.com/5181D> <http://aemet.linkeddata.es/ontology/Province> "JAEN" .
+<http://www.si2.com/5181D> <http://aemet.linkeddata.es/ontology/indsinop> "08352" .
+<http://www.si2.com/5181D> <http://aemet.linkeddata.es/ontology/stationName> "ARROYO DEL OJANCO" .
+<http://www.si2.com/3196> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034710W" .
+<http://www.si2.com/3196> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "690" .
+<http://www.si2.com/3196> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402232N" .
+<http://www.si2.com/3196> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3196> <http://aemet.linkeddata.es/ontology/indsinop> "08223" .
+<http://www.si2.com/3196> <http://aemet.linkeddata.es/ontology/stationName> "MADRID, CUATRO VIENTOS" .
+<http://www.si2.com/3175> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "032637W" .
+<http://www.si2.com/3175> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "607" .
+<http://www.si2.com/3175> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402919N" .
+<http://www.si2.com/3175> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3175> <http://aemet.linkeddata.es/ontology/indsinop> "08227" .
+<http://www.si2.com/3175> <http://aemet.linkeddata.es/ontology/stationName> "TORREJÓN DE ARDOZ" .
+<http://www.si2.com/9111> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "031013W" .
+<http://www.si2.com/9111> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "820" .
+<http://www.si2.com/9111> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422516N" .
+<http://www.si2.com/9111> <http://aemet.linkeddata.es/ontology/Province> "BURGOS" .
+<http://www.si2.com/9111> <http://aemet.linkeddata.es/ontology/indsinop> "08077" .
+<http://www.si2.com/9111> <http://aemet.linkeddata.es/ontology/stationName> "BELORADO" .
+<http://www.si2.com/3111D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033449W" .
+<http://www.si2.com/3111D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1450" .
+<http://www.si2.com/3111D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "410808N" .
+<http://www.si2.com/3111D> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3111D> <http://aemet.linkeddata.es/ontology/indsinop> "08145" .
+<http://www.si2.com/3111D> <http://aemet.linkeddata.es/ontology/stationName> "SOMOSIERRA" .
+<http://www.si2.com/8325X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "002219W" .
+<http://www.si2.com/8325X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "12" .
+<http://www.si2.com/8325X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "391105N" .
+<http://www.si2.com/8325X> <http://aemet.linkeddata.es/ontology/Province> "VALENCIA" .
+<http://www.si2.com/8325X> <http://aemet.linkeddata.es/ontology/indsinop> "08287" .
+<http://www.si2.com/8325X> <http://aemet.linkeddata.es/ontology/stationName> "POLINYÀ DE XÚQUER" .
+<http://www.si2.com/2465A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040657W" .
+<http://www.si2.com/2465A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "990" .
+<http://www.si2.com/2465A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405648N" .
+<http://www.si2.com/2465A> <http://aemet.linkeddata.es/ontology/Province> "SEGOVIA" .
+<http://www.si2.com/2465A> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/2465A> <http://aemet.linkeddata.es/ontology/stationName> "SEGOVIA, INSTITUTO" .
+<http://www.si2.com/9569A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "001416W" .
+<http://www.si2.com/9569A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "466" .
+<http://www.si2.com/9569A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405648N" .
+<http://www.si2.com/9569A> <http://aemet.linkeddata.es/ontology/Province> "TERUEL" .
+<http://www.si2.com/9569A> <http://aemet.linkeddata.es/ontology/indsinop> "08166" .
+<http://www.si2.com/9569A> <http://aemet.linkeddata.es/ontology/stationName> "CALANDA" .
+<http://www.si2.com/9283X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "014241W" .
+<http://www.si2.com/9283X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "268" .
+<http://www.si2.com/9283X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "421225N" .
+<http://www.si2.com/9283X> <http://aemet.linkeddata.es/ontology/Province> "NAVARRA" .
+<http://www.si2.com/9283X> <http://aemet.linkeddata.es/ontology/indsinop> "08153" .
+<http://www.si2.com/9283X> <http://aemet.linkeddata.es/ontology/stationName> "CADREITA" .
+<http://www.si2.com/8489X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "001521W" .
+<http://www.si2.com/8489X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1131" .
+<http://www.si2.com/8489X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402600N" .
+<http://www.si2.com/8489X> <http://aemet.linkeddata.es/ontology/Province> "CASTELLON" .
+<http://www.si2.com/8489X> <http://aemet.linkeddata.es/ontology/indsinop> "08241" .
+<http://www.si2.com/8489X> <http://aemet.linkeddata.es/ontology/stationName> "VILLAFRANCA DEL CID/VILLAFRANCA" .
+<http://www.si2.com/6268X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033149W" .
+<http://www.si2.com/6268X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "12" .
+<http://www.si2.com/6268X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364322N" .
+<http://www.si2.com/6268X> <http://aemet.linkeddata.es/ontology/Province> "GRANADA" .
+<http://www.si2.com/6268X> <http://aemet.linkeddata.es/ontology/indsinop> "08485" .
+<http://www.si2.com/6268X> <http://aemet.linkeddata.es/ontology/stationName> "MOTRIL" .
+<http://www.si2.com/9019B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "035602W" .
+<http://www.si2.com/9019B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "720" .
+<http://www.si2.com/9019B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "424823N" .
+<http://www.si2.com/9019B> <http://aemet.linkeddata.es/ontology/Province> "CANTABRIA" .
+<http://www.si2.com/9019B> <http://aemet.linkeddata.es/ontology/indsinop> "08033" .
+<http://www.si2.com/9019B> <http://aemet.linkeddata.es/ontology/stationName> "VALDERREDIBLE, POLIENTES   " .
+<http://www.si2.com/1690B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "075152W" .
+<http://www.si2.com/1690B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "148" .
+<http://www.si2.com/1690B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "421956N" .
+<http://www.si2.com/1690B> <http://aemet.linkeddata.es/ontology/Province> "OURENSE" .
+<http://www.si2.com/1690B> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/1690B> <http://aemet.linkeddata.es/ontology/stationName> "OURENSE,INSTITUTO" .
+<http://www.si2.com/0367> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024548E" .
+<http://www.si2.com/0367> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "143" .
+<http://www.si2.com/0367> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "415442N" .
+<http://www.si2.com/0367> <http://aemet.linkeddata.es/ontology/Province> "GIRONA" .
+<http://www.si2.com/0367> <http://aemet.linkeddata.es/ontology/indsinop> "08184" .
+<http://www.si2.com/0367> <http://aemet.linkeddata.es/ontology/stationName> "GIRONA AEROPUERTO" .
+<http://www.si2.com/9784P> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "001329E" .
+<http://www.si2.com/9784P> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "990" .
+<http://www.si2.com/9784P> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "423748N" .
+<http://www.si2.com/9784P> <http://aemet.linkeddata.es/ontology/Province> "HUESCA" .
+<http://www.si2.com/9784P> <http://aemet.linkeddata.es/ontology/indsinop> "08103" .
+<http://www.si2.com/9784P> <http://aemet.linkeddata.es/ontology/stationName> "BIELSA" .
+<http://www.si2.com/2737E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "061148W" .
+<http://www.si2.com/2737E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1020" .
+<http://www.si2.com/2737E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422239N" .
+<http://www.si2.com/2737E> <http://aemet.linkeddata.es/ontology/Province> "LEON" .
+<http://www.si2.com/2737E> <http://aemet.linkeddata.es/ontology/indsinop> "08123" .
+<http://www.si2.com/2737E> <http://aemet.linkeddata.es/ontology/stationName> "LAGUNAS DE SOMOZA" .
+<http://www.si2.com/3434X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053457W" .
+<http://www.si2.com/3434X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "269" .
+<http://www.si2.com/3434X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "395645N" .
+<http://www.si2.com/3434X> <http://aemet.linkeddata.es/ontology/Province> "CACERES" .
+<http://www.si2.com/3434X> <http://aemet.linkeddata.es/ontology/indsinop> "08254" .
+<http://www.si2.com/3434X> <http://aemet.linkeddata.es/ontology/stationName> "NAVALMORAL DE LA MATA" .
+<http://www.si2.com/6293X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024206W" .
+<http://www.si2.com/6293X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "3" .
+<http://www.si2.com/6293X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364113N" .
+<http://www.si2.com/6293X> <http://aemet.linkeddata.es/ontology/Province> "ALMERIA" .
+<http://www.si2.com/6293X> <http://aemet.linkeddata.es/ontology/indsinop> "08492" .
+<http://www.si2.com/6293X> <http://aemet.linkeddata.es/ontology/stationName> "ROQUETAS DE MAR" .
+<http://www.si2.com/0229I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "020611E" .
+<http://www.si2.com/0229I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "146" .
+<http://www.si2.com/0229I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413125N" .
+<http://www.si2.com/0229I> <http://aemet.linkeddata.es/ontology/Province> "BARCELONA" .
+<http://www.si2.com/0229I> <http://aemet.linkeddata.es/ontology/indsinop> "08192" .
+<http://www.si2.com/0229I> <http://aemet.linkeddata.es/ontology/stationName> "SABADELL AEROPUERTO" .
+<http://www.si2.com/0002I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "005217E" .
+<http://www.si2.com/0002I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "32" .
+<http://www.si2.com/0002I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405729N" .
+<http://www.si2.com/0002I> <http://aemet.linkeddata.es/ontology/Province> "TARRAGONA" .
+<http://www.si2.com/0002I> <http://aemet.linkeddata.es/ontology/indsinop> "08169" .
+<http://www.si2.com/0002I> <http://aemet.linkeddata.es/ontology/stationName> "VANDELLÒS  " .
+<http://www.si2.com/5270B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034832W" .
+<http://www.si2.com/5270B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "580" .
+<http://www.si2.com/5270B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "374639N" .
+<http://www.si2.com/5270B> <http://aemet.linkeddata.es/ontology/Province> "JAEN" .
+<http://www.si2.com/5270B> <http://aemet.linkeddata.es/ontology/indsinop> "08417" .
+<http://www.si2.com/5270B> <http://aemet.linkeddata.es/ontology/stationName> "JAÉN" .
+<http://www.si2.com/4560Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "064030W" .
+<http://www.si2.com/4560Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "572" .
+<http://www.si2.com/4560Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "375207N" .
+<http://www.si2.com/4560Y> <http://aemet.linkeddata.es/ontology/Province> "HUELVA" .
+<http://www.si2.com/4560Y> <http://aemet.linkeddata.es/ontology/indsinop> "08380" .
+<http://www.si2.com/4560Y> <http://aemet.linkeddata.es/ontology/stationName> "ALAJAR" .
+<http://www.si2.com/3194U> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034327W" .
+<http://www.si2.com/3194U> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "664" .
+<http://www.si2.com/3194U> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402706N" .
+<http://www.si2.com/3194U> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3194U> <http://aemet.linkeddata.es/ontology/indsinop> "08220" .
+<http://www.si2.com/3194U> <http://aemet.linkeddata.es/ontology/stationName> "MADRID, CIUDAD UNIVERSITARIA" .
+<http://www.si2.com/C839I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "133007W" .
+<http://www.si2.com/C839I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "10" .
+<http://www.si2.com/C839I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "291355N" .
+<http://www.si2.com/C839I> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C839I> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/C839I> <http://aemet.linkeddata.es/ontology/stationName> "TEGUISE" .
+<http://www.si2.com/5972X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "061220W" .
+<http://www.si2.com/5972X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "28" .
+<http://www.si2.com/5972X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "362756N" .
+<http://www.si2.com/5972X> <http://aemet.linkeddata.es/ontology/Province> "CADIZ" .
+<http://www.si2.com/5972X> <http://aemet.linkeddata.es/ontology/indsinop> "08453" .
+<http://www.si2.com/5972X> <http://aemet.linkeddata.es/ontology/stationName> "SAN FERNANDO" .
+<http://www.si2.com/8414A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "002829W" .
+<http://www.si2.com/8414A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "56" .
+<http://www.si2.com/8414A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392906N" .
+<http://www.si2.com/8414A> <http://aemet.linkeddata.es/ontology/Province> "VALENCIA" .
+<http://www.si2.com/8414A> <http://aemet.linkeddata.es/ontology/indsinop> "08284" .
+<http://www.si2.com/8414A> <http://aemet.linkeddata.es/ontology/stationName> "VALENCIA AEROPUERTO" .
+<http://www.si2.com/5530E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034722W" .
+<http://www.si2.com/5530E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "567" .
+<http://www.si2.com/5530E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "371123N" .
+<http://www.si2.com/5530E> <http://aemet.linkeddata.es/ontology/Province> "GRANADA" .
+<http://www.si2.com/5530E> <http://aemet.linkeddata.es/ontology/indsinop> "08419" .
+<http://www.si2.com/5530E> <http://aemet.linkeddata.es/ontology/stationName> "GRANADA AEROPUERTO" .
+<http://www.si2.com/8050X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "001004E" .
+<http://www.si2.com/8050X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "15" .
+<http://www.si2.com/8050X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "384701N" .
+<http://www.si2.com/8050X> <http://aemet.linkeddata.es/ontology/Province> "ALICANTE" .
+<http://www.si2.com/8050X> <http://aemet.linkeddata.es/ontology/indsinop> "08370" .
+<http://www.si2.com/8050X> <http://aemet.linkeddata.es/ontology/stationName> "JÁVEA/ XÀBIA" .
+<http://www.si2.com/3298X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "042102W" .
+<http://www.si2.com/3298X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "917" .
+<http://www.si2.com/3298X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "393249N" .
+<http://www.si2.com/3298X> <http://aemet.linkeddata.es/ontology/Province> "TOLEDO" .
+<http://www.si2.com/3298X> <http://aemet.linkeddata.es/ontology/indsinop> "08270" .
+<http://www.si2.com/3298X> <http://aemet.linkeddata.es/ontology/stationName> "SAN PABLO DE LOS MONTES" .
+<http://www.si2.com/1183X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "044453W" .
+<http://www.si2.com/1183X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "10" .
+<http://www.si2.com/1183X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432513N" .
+<http://www.si2.com/1183X> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1183X> <http://aemet.linkeddata.es/ontology/indsinop> "08016" .
+<http://www.si2.com/1183X> <http://aemet.linkeddata.es/ontology/stationName> "LLANES" .
+<http://www.si2.com/1475X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "083321W" .
+<http://www.si2.com/1475X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "240" .
+<http://www.si2.com/1475X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425234N" .
+<http://www.si2.com/1475X> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1475X> <http://aemet.linkeddata.es/ontology/indsinop> "08041" .
+<http://www.si2.com/1475X> <http://aemet.linkeddata.es/ontology/stationName> "SANTIAGO DE COMPOSTELA" .
+<http://www.si2.com/4121> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "035513W" .
+<http://www.si2.com/4121> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "628" .
+<http://www.si2.com/4121> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385921N" .
+<http://www.si2.com/4121> <http://aemet.linkeddata.es/ontology/Province> "CIUDAD REAL" .
+<http://www.si2.com/4121> <http://aemet.linkeddata.es/ontology/indsinop> "08348" .
+<http://www.si2.com/4121> <http://aemet.linkeddata.es/ontology/stationName> "CIUDAD REAL" .
+<http://www.si2.com/5860E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "064417W" .
+<http://www.si2.com/5860E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "41" .
+<http://www.si2.com/5860E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "370553N" .
+<http://www.si2.com/5860E> <http://aemet.linkeddata.es/ontology/Province> "HUELVA" .
+<http://www.si2.com/5860E> <http://aemet.linkeddata.es/ontology/indsinop> "08384" .
+<http://www.si2.com/5860E> <http://aemet.linkeddata.es/ontology/stationName> "MOGUER, EL ARENOSILLO" .
+<http://www.si2.com/C029O> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "133601W" .
+<http://www.si2.com/C029O> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "14" .
+<http://www.si2.com/C029O> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "285707N" .
+<http://www.si2.com/C029O> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C029O> <http://aemet.linkeddata.es/ontology/indsinop> "60040" .
+<http://www.si2.com/C029O> <http://aemet.linkeddata.es/ontology/stationName> "LANZAROTE AEROPUERTO" .
+<http://www.si2.com/4605> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "065659W" .
+<http://www.si2.com/4605> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "17" .
+<http://www.si2.com/4605> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "371524N" .
+<http://www.si2.com/4605> <http://aemet.linkeddata.es/ontology/Province> "HUELVA" .
+<http://www.si2.com/4605> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/4605> <http://aemet.linkeddata.es/ontology/stationName> "HUELVA" .
+<http://www.si2.com/6172O> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "042511W" .
+<http://www.si2.com/6172O> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "25" .
+<http://www.si2.com/6172O> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364300N" .
+<http://www.si2.com/6172O> <http://aemet.linkeddata.es/ontology/Province> "MALAGA" .
+<http://www.si2.com/6172O> <http://aemet.linkeddata.es/ontology/indsinop> "08479" .
+<http://www.si2.com/6172O> <http://aemet.linkeddata.es/ontology/stationName> "MÁLAGA, PUERTO" .
+<http://www.si2.com/9390> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "012436W" .
+<http://www.si2.com/9390> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "779" .
+<http://www.si2.com/9390> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "410652N" .
+<http://www.si2.com/9390> <http://aemet.linkeddata.es/ontology/Province> "ZARAGOZA" .
+<http://www.si2.com/9390> <http://aemet.linkeddata.es/ontology/indsinop> "08157" .
+<http://www.si2.com/9390> <http://aemet.linkeddata.es/ontology/stationName> "DAROCA" .
+<http://www.si2.com/2661> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053904W" .
+<http://www.si2.com/2661> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "912" .
+<http://www.si2.com/2661> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "423518N" .
+<http://www.si2.com/2661> <http://aemet.linkeddata.es/ontology/Province> "LEON" .
+<http://www.si2.com/2661> <http://aemet.linkeddata.es/ontology/indsinop> "08055" .
+<http://www.si2.com/2661> <http://aemet.linkeddata.es/ontology/stationName> "LEÓN, VIRGEN DEL CAMINO" .
+<http://www.si2.com/2298> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030754W" .
+<http://www.si2.com/2298> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1080" .
+<http://www.si2.com/2298> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "415735N" .
+<http://www.si2.com/2298> <http://aemet.linkeddata.es/ontology/Province> "BURGOS" .
+<http://www.si2.com/2298> <http://aemet.linkeddata.es/ontology/indsinop> "08149" .
+<http://www.si2.com/2298> <http://aemet.linkeddata.es/ontology/stationName> "PALACIOS DE LA SIERRA" .
+<http://www.si2.com/1505> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "072727W" .
+<http://www.si2.com/1505> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "445" .
+<http://www.si2.com/1505> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "430641N" .
+<http://www.si2.com/1505> <http://aemet.linkeddata.es/ontology/Province> "LUGO" .
+<http://www.si2.com/1505> <http://aemet.linkeddata.es/ontology/indsinop> "08008" .
+<http://www.si2.com/1505> <http://aemet.linkeddata.es/ontology/stationName> "LUGO AEROPUERTO" .
+<http://www.si2.com/3391> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "043527W" .
+<http://www.si2.com/3391> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "630" .
+<http://www.si2.com/3391> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "401719N" .
+<http://www.si2.com/3391> <http://aemet.linkeddata.es/ontology/Province> "AVILA" .
+<http://www.si2.com/3391> <http://aemet.linkeddata.es/ontology/indsinop> "08208" .
+<http://www.si2.com/3391> <http://aemet.linkeddata.es/ontology/stationName> "SOTILLO DE LA ADRADA" .
+<http://www.si2.com/0149X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "015025E" .
+<http://www.si2.com/0149X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "291" .
+<http://www.si2.com/0149X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "414312N" .
+<http://www.si2.com/0149X> <http://aemet.linkeddata.es/ontology/Province> "BARCELONA" .
+<http://www.si2.com/0149X> <http://aemet.linkeddata.es/ontology/indsinop> "08174" .
+<http://www.si2.com/0149X> <http://aemet.linkeddata.es/ontology/stationName> "MANRESA" .
+<http://www.si2.com/9619> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "012747E" .
+<http://www.si2.com/9619> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "677" .
+<http://www.si2.com/9619> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422117N" .
+<http://www.si2.com/9619> <http://aemet.linkeddata.es/ontology/Province> "LLEIDA" .
+<http://www.si2.com/9619> <http://aemet.linkeddata.es/ontology/indsinop> "08115" .
+<http://www.si2.com/9619> <http://aemet.linkeddata.es/ontology/stationName> "LA SEU D'URGELL" .
+<http://www.si2.com/5995B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "055754W" .
+<http://www.si2.com/5995B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "186" .
+<http://www.si2.com/5995B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "361444N" .
+<http://www.si2.com/5995B> <http://aemet.linkeddata.es/ontology/Province> "CADIZ" .
+<http://www.si2.com/5995B> <http://aemet.linkeddata.es/ontology/indsinop> "08457" .
+<http://www.si2.com/5995B> <http://aemet.linkeddata.es/ontology/stationName> "VEJER DE LA FRONTERA" .
+<http://www.si2.com/5612B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "044612W" .
+<http://www.si2.com/5612B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "410" .
+<http://www.si2.com/5612B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "371140N" .
+<http://www.si2.com/5612B> <http://aemet.linkeddata.es/ontology/Province> "SEVILLA" .
+<http://www.si2.com/5612B> <http://aemet.linkeddata.es/ontology/indsinop> "08399" .
+<http://www.si2.com/5612B> <http://aemet.linkeddata.es/ontology/stationName> "LA RODA DE ANDALUCÍA" .
+<http://www.si2.com/6155A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "042856W" .
+<http://www.si2.com/6155A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "5" .
+<http://www.si2.com/6155A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "363958N" .
+<http://www.si2.com/6155A> <http://aemet.linkeddata.es/ontology/Province> "MALAGA" .
+<http://www.si2.com/6155A> <http://aemet.linkeddata.es/ontology/indsinop> "08482" .
+<http://www.si2.com/6155A> <http://aemet.linkeddata.es/ontology/stationName> "MÁLAGA AEROPUERTO" .
+<http://www.si2.com/5514> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033753W" .
+<http://www.si2.com/5514> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "687" .
+<http://www.si2.com/5514> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "370814N" .
+<http://www.si2.com/5514> <http://aemet.linkeddata.es/ontology/Province> "GRANADA" .
+<http://www.si2.com/5514> <http://aemet.linkeddata.es/ontology/indsinop> "08420" .
+<http://www.si2.com/5514> <http://aemet.linkeddata.es/ontology/stationName> "GRANADA BASE AÉREA" .
+<http://www.si2.com/C249I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "135147W" .
+<http://www.si2.com/C249I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "25" .
+<http://www.si2.com/C249I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "282641N" .
+<http://www.si2.com/C249I> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C249I> <http://aemet.linkeddata.es/ontology/indsinop> "60035" .
+<http://www.si2.com/C249I> <http://aemet.linkeddata.es/ontology/stationName> "FUERTEVENTURA AEROPUERTO" .
+<http://www.si2.com/1210X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "055055W" .
+<http://www.si2.com/1210X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "100" .
+<http://www.si2.com/1210X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "433921N" .
+<http://www.si2.com/1210X> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1210X> <http://aemet.linkeddata.es/ontology/indsinop> "08012" .
+<http://www.si2.com/1210X> <http://aemet.linkeddata.es/ontology/stationName> "CABO PEÑAS" .
+<http://www.si2.com/3094B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030117W" .
+<http://www.si2.com/3094B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "808" .
+<http://www.si2.com/3094B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "400041N" .
+<http://www.si2.com/3094B> <http://aemet.linkeddata.es/ontology/Province> "CUENCA" .
+<http://www.si2.com/3094B> <http://aemet.linkeddata.es/ontology/indsinop> "08277" .
+<http://www.si2.com/3094B> <http://aemet.linkeddata.es/ontology/stationName> "TARANCÓN" .
+<http://www.si2.com/1484> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "083850W" .
+<http://www.si2.com/1484> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "19" .
+<http://www.si2.com/1484> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422550N" .
+<http://www.si2.com/1484> <http://aemet.linkeddata.es/ontology/Province> "PONTEVEDRA" .
+<http://www.si2.com/1484> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/1484> <http://aemet.linkeddata.es/ontology/stationName> "PONTEVEDRA, INSTITUTO" .
+<http://www.si2.com/9990X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "005237E" .
+<http://www.si2.com/9990X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1161" .
+<http://www.si2.com/9990X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "424201N" .
+<http://www.si2.com/9990X> <http://aemet.linkeddata.es/ontology/Province> "LLEIDA" .
+<http://www.si2.com/9990X> <http://aemet.linkeddata.es/ontology/indsinop> "08107" .
+<http://www.si2.com/9990X> <http://aemet.linkeddata.es/ontology/stationName> "NAUT ARAN, ARTIES " .
+<http://www.si2.com/4220X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "043659W" .
+<http://www.si2.com/4220X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "485" .
+<http://www.si2.com/4220X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "390519N" .
+<http://www.si2.com/4220X> <http://aemet.linkeddata.es/ontology/Province> "CIUDAD REAL" .
+<http://www.si2.com/4220X> <http://aemet.linkeddata.es/ontology/indsinop> "08271" .
+<http://www.si2.com/4220X> <http://aemet.linkeddata.es/ontology/stationName> "PUEBLA DE DON RODRIGO" .
+<http://www.si2.com/3260B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040243W" .
+<http://www.si2.com/3260B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "515" .
+<http://www.si2.com/3260B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "395305N" .
+<http://www.si2.com/3260B> <http://aemet.linkeddata.es/ontology/Province> "TOLEDO" .
+<http://www.si2.com/3260B> <http://aemet.linkeddata.es/ontology/indsinop> "08272" .
+<http://www.si2.com/3260B> <http://aemet.linkeddata.es/ontology/stationName> "TOLEDO" .
+<http://www.si2.com/7228> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "011343W" .
+<http://www.si2.com/7228> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "75" .
+<http://www.si2.com/7228> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "375728N" .
+<http://www.si2.com/7228> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7228> <http://aemet.linkeddata.es/ontology/indsinop> "08429" .
+<http://www.si2.com/7228> <http://aemet.linkeddata.es/ontology/stationName> "ALCANTARILLA, BASE AÉREA" .
+<http://www.si2.com/C449C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "161519W" .
+<http://www.si2.com/C449C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "35" .
+<http://www.si2.com/C449C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "282748N" .
+<http://www.si2.com/C449C> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C449C> <http://aemet.linkeddata.es/ontology/indsinop> "60020" .
+<http://www.si2.com/C449C> <http://aemet.linkeddata.es/ontology/stationName> "STA.CRUZ DE TENERIFE" .
+<http://www.si2.com/2030> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "022859W" .
+<http://www.si2.com/2030> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1082" .
+<http://www.si2.com/2030> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "414630N" .
+<http://www.si2.com/2030> <http://aemet.linkeddata.es/ontology/Province> "SORIA" .
+<http://www.si2.com/2030> <http://aemet.linkeddata.es/ontology/indsinop> "08148" .
+<http://www.si2.com/2030> <http://aemet.linkeddata.es/ontology/stationName> "SORIA" .
+<http://www.si2.com/8309X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "011441W" .
+<http://www.si2.com/8309X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "758" .
+<http://www.si2.com/8309X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "393432N" .
+<http://www.si2.com/8309X> <http://aemet.linkeddata.es/ontology/Province> "VALENCIA" .
+<http://www.si2.com/8309X> <http://aemet.linkeddata.es/ontology/indsinop> "08281" .
+<http://www.si2.com/8309X> <http://aemet.linkeddata.es/ontology/stationName> "UTIEL" .
+<http://www.si2.com/1400> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "091729W" .
+<http://www.si2.com/1400> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "230" .
+<http://www.si2.com/1400> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425529N" .
+<http://www.si2.com/1400> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1400> <http://aemet.linkeddata.es/ontology/indsinop> "08040" .
+<http://www.si2.com/1400> <http://aemet.linkeddata.es/ontology/stationName> "FISTERRA" .
+<http://www.si2.com/1208> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053815W" .
+<http://www.si2.com/1208> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "3" .
+<http://www.si2.com/1208> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "433220N" .
+<http://www.si2.com/1208> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1208> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/1208> <http://aemet.linkeddata.es/ontology/stationName> "GIJÓN" .
+<http://www.si2.com/9051> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "032858W" .
+<http://www.si2.com/9051> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "580" .
+<http://www.si2.com/9051> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425512N" .
+<http://www.si2.com/9051> <http://aemet.linkeddata.es/ontology/Province> "BURGOS" .
+<http://www.si2.com/9051> <http://aemet.linkeddata.es/ontology/indsinop> "08063" .
+<http://www.si2.com/9051> <http://aemet.linkeddata.es/ontology/stationName> "MEDINA DE POMAR" .
+<http://www.si2.com/9981A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "002936E" .
+<http://www.si2.com/9981A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "50" .
+<http://www.si2.com/9981A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "404913N" .
+<http://www.si2.com/9981A> <http://aemet.linkeddata.es/ontology/Province> "TARRAGONA" .
+<http://www.si2.com/9981A> <http://aemet.linkeddata.es/ontology/indsinop> "08238" .
+<http://www.si2.com/9981A> <http://aemet.linkeddata.es/ontology/stationName> "TORTOSA" .
+<http://www.si2.com/1542> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "062451W" .
+<http://www.si2.com/1542> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1530" .
+<http://www.si2.com/1542> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425939N" .
+<http://www.si2.com/1542> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1542> <http://aemet.linkeddata.es/ontology/indsinop> "08052" .
+<http://www.si2.com/1542> <http://aemet.linkeddata.es/ontology/stationName> "PUERTO DE LEITARIEGOS" .
+<http://www.si2.com/4147X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "032329W" .
+<http://www.si2.com/4147X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "700" .
+<http://www.si2.com/4147X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "384502N" .
+<http://www.si2.com/4147X> <http://aemet.linkeddata.es/ontology/Province> "CIUDAD REAL" .
+<http://www.si2.com/4147X> <http://aemet.linkeddata.es/ontology/indsinop> "08351" .
+<http://www.si2.com/4147X> <http://aemet.linkeddata.es/ontology/stationName> "VALDEPEÑAS" .
+<http://www.si2.com/1059X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030118W" .
+<http://www.si2.com/1059X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "90" .
+<http://www.si2.com/1059X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432230N" .
+<http://www.si2.com/1059X> <http://aemet.linkeddata.es/ontology/Province> "BIZKAIA" .
+<http://www.si2.com/1059X> <http://aemet.linkeddata.es/ontology/indsinop> "08059" .
+<http://www.si2.com/1059X> <http://aemet.linkeddata.es/ontology/stationName> "PUNTA GALEA" .
+<http://www.si2.com/0255B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024149E" .
+<http://www.si2.com/0255B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "40" .
+<http://www.si2.com/0255B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413903N" .
+<http://www.si2.com/0255B> <http://aemet.linkeddata.es/ontology/Province> "BARCELONA" .
+<http://www.si2.com/0255B> <http://aemet.linkeddata.es/ontology/indsinop> "08188" .
+<http://www.si2.com/0255B> <http://aemet.linkeddata.es/ontology/stationName> "SANTA SUSANNA" .
+<http://www.si2.com/0200E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "020727E" .
+<http://www.si2.com/0200E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "408" .
+<http://www.si2.com/0200E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "412506N" .
+<http://www.si2.com/0200E> <http://aemet.linkeddata.es/ontology/Province> "BARCELONA" .
+<http://www.si2.com/0200E> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/0200E> <http://aemet.linkeddata.es/ontology/stationName> "BARCELONA, FABRA" .
+<http://www.si2.com/5000A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "051732W" .
+<http://www.si2.com/5000A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "200" .
+<http://www.si2.com/5000A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "355344N" .
+<http://www.si2.com/5000A> <http://aemet.linkeddata.es/ontology/Province> "CEUTA" .
+<http://www.si2.com/5000A> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/5000A> <http://aemet.linkeddata.es/ontology/stationName> "CEUTA, MONTE HACHO" .
+<http://www.si2.com/1057B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024510W" .
+<http://www.si2.com/1057B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "93" .
+<http://www.si2.com/1057B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432714N" .
+<http://www.si2.com/1057B> <http://aemet.linkeddata.es/ontology/Province> "BIZKAIA" .
+<http://www.si2.com/1057B> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/1057B> <http://aemet.linkeddata.es/ontology/stationName> "MACHICHACO" .
+<http://www.si2.com/2614> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "054407W" .
+<http://www.si2.com/2614> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "656" .
+<http://www.si2.com/2614> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413056N" .
+<http://www.si2.com/2614> <http://aemet.linkeddata.es/ontology/Province> "ZAMORA" .
+<http://www.si2.com/2614> <http://aemet.linkeddata.es/ontology/indsinop> "08130" .
+<http://www.si2.com/2614> <http://aemet.linkeddata.es/ontology/stationName> "ZAMORA" .
+<http://www.si2.com/2422> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "044516W" .
+<http://www.si2.com/2422> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "735" .
+<http://www.si2.com/2422> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413827N" .
+<http://www.si2.com/2422> <http://aemet.linkeddata.es/ontology/Province> "VALLADOLID" .
+<http://www.si2.com/2422> <http://aemet.linkeddata.es/ontology/indsinop> "08141" .
+<http://www.si2.com/2422> <http://aemet.linkeddata.es/ontology/stationName> "VALLADOLID" .
+<http://www.si2.com/2401> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "043145W" .
+<http://www.si2.com/2401> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "750" .
+<http://www.si2.com/2401> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "420018N" .
+<http://www.si2.com/2401> <http://aemet.linkeddata.es/ontology/Province> "PALENCIA" .
+<http://www.si2.com/2401> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/2401> <http://aemet.linkeddata.es/ontology/stationName> "PALENCIA, OBSERVATORIO" .
+<http://www.si2.com/B893> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "041256E" .
+<http://www.si2.com/B893> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "91" .
+<http://www.si2.com/B893> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "395117N" .
+<http://www.si2.com/B893> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B893> <http://aemet.linkeddata.es/ontology/indsinop> "08314" .
+<http://www.si2.com/B893> <http://aemet.linkeddata.es/ontology/stationName> "MENORCA, AEROPUERTO" .
+<http://www.si2.com/0016A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "010949E" .
+<http://www.si2.com/0016A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "71" .
+<http://www.si2.com/0016A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "410842N" .
+<http://www.si2.com/0016A> <http://aemet.linkeddata.es/ontology/Province> "TARRAGONA" .
+<http://www.si2.com/0016A> <http://aemet.linkeddata.es/ontology/indsinop> "08175" .
+<http://www.si2.com/0016A> <http://aemet.linkeddata.es/ontology/stationName> "REUS AEROPUERTO" .
+<http://www.si2.com/C329Z> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "170641W" .
+<http://www.si2.com/C329Z> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "15" .
+<http://www.si2.com/C329Z> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "280523N" .
+<http://www.si2.com/C329Z> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C329Z> <http://aemet.linkeddata.es/ontology/indsinop> "60008" .
+<http://www.si2.com/C329Z> <http://aemet.linkeddata.es/ontology/stationName> "SAN SEBASTIÁN DE LA GOMERA" .
+<http://www.si2.com/2235U> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "043112W" .
+<http://www.si2.com/2235U> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1140" .
+<http://www.si2.com/2235U> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425214N" .
+<http://www.si2.com/2235U> <http://aemet.linkeddata.es/ontology/Province> "PALENCIA" .
+<http://www.si2.com/2235U> <http://aemet.linkeddata.es/ontology/indsinop> "08058" .
+<http://www.si2.com/2235U> <http://aemet.linkeddata.es/ontology/stationName> "CERVERA DE PISUERGA" .
+<http://www.si2.com/9585> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "015622E" .
+<http://www.si2.com/9585> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1703" .
+<http://www.si2.com/9585> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "421957N" .
+<http://www.si2.com/9585> <http://aemet.linkeddata.es/ontology/Province> "GIRONA" .
+<http://www.si2.com/9585> <http://aemet.linkeddata.es/ontology/indsinop> "08117" .
+<http://www.si2.com/9585> <http://aemet.linkeddata.es/ontology/stationName> "LA MOLINA" .
+<http://www.si2.com/5582A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040910W" .
+<http://www.si2.com/5582A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "594" .
+<http://www.si2.com/5582A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "370940N" .
+<http://www.si2.com/5582A> <http://aemet.linkeddata.es/ontology/Province> "GRANADA" .
+<http://www.si2.com/5582A> <http://aemet.linkeddata.es/ontology/indsinop> "08414" .
+<http://www.si2.com/5582A> <http://aemet.linkeddata.es/ontology/stationName> "LOJA" .
+<http://www.si2.com/9898> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "001932W" .
+<http://www.si2.com/9898> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "546" .
+<http://www.si2.com/9898> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "420504N" .
+<http://www.si2.com/9898> <http://aemet.linkeddata.es/ontology/Province> "HUESCA" .
+<http://www.si2.com/9898> <http://aemet.linkeddata.es/ontology/indsinop> "08094" .
+<http://www.si2.com/9898> <http://aemet.linkeddata.es/ontology/stationName> "HUESCA AEROPUERTO" .
+<http://www.si2.com/9201K> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "003249W" .
+<http://www.si2.com/9201K> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "823" .
+<http://www.si2.com/9201K> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "423444N" .
+<http://www.si2.com/9201K> <http://aemet.linkeddata.es/ontology/Province> "HUESCA" .
+<http://www.si2.com/9201K> <http://aemet.linkeddata.es/ontology/indsinop> "08091" .
+<http://www.si2.com/9201K> <http://aemet.linkeddata.es/ontology/stationName> "JACA" .
+<http://www.si2.com/4549Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "072342W" .
+<http://www.si2.com/4549Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "2" .
+<http://www.si2.com/4549Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "371141N" .
+<http://www.si2.com/4549Y> <http://aemet.linkeddata.es/ontology/Province> "HUELVA" .
+<http://www.si2.com/4549Y> <http://aemet.linkeddata.es/ontology/indsinop> "08381" .
+<http://www.si2.com/4549Y> <http://aemet.linkeddata.es/ontology/stationName> "AYAMONTE" .
+<http://www.si2.com/5246> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033207W" .
+<http://www.si2.com/5246> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "770" .
+<http://www.si2.com/5246> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "382040N" .
+<http://www.si2.com/5246> <http://aemet.linkeddata.es/ontology/Province> "JAEN" .
+<http://www.si2.com/5246> <http://aemet.linkeddata.es/ontology/indsinop> "08350" .
+<http://www.si2.com/5246> <http://aemet.linkeddata.es/ontology/stationName> "SANTA ELENA" .
+<http://www.si2.com/5427X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "042114W" .
+<http://www.si2.com/5427X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "650" .
+<http://www.si2.com/5427X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "373322N" .
+<http://www.si2.com/5427X> <http://aemet.linkeddata.es/ontology/Province> "CORDOBA" .
+<http://www.si2.com/5427X> <http://aemet.linkeddata.es/ontology/indsinop> "08412" .
+<http://www.si2.com/5427X> <http://aemet.linkeddata.es/ontology/stationName> "DOÑA MENCÍA" .
+<http://www.si2.com/6381> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030210W" .
+<http://www.si2.com/6381> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "15" .
+<http://www.si2.com/6381> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "355618N" .
+<http://www.si2.com/6381> <http://aemet.linkeddata.es/ontology/Province> "ALMERIA" .
+<http://www.si2.com/6381> <http://aemet.linkeddata.es/ontology/indsinop> "08490" .
+<http://www.si2.com/6381> <http://aemet.linkeddata.es/ontology/stationName> "ALBORÁN" .
+<http://www.si2.com/2811A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "050835W" .
+<http://www.si2.com/2811A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1525" .
+<http://www.si2.com/2811A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402102N" .
+<http://www.si2.com/2811A> <http://aemet.linkeddata.es/ontology/Province> "AVILA" .
+<http://www.si2.com/2811A> <http://aemet.linkeddata.es/ontology/indsinop> "08206" .
+<http://www.si2.com/2811A> <http://aemet.linkeddata.es/ontology/stationName> "NAVARREDONDA DE GREDOS" .
+<http://www.si2.com/3526X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "063327W" .
+<http://www.si2.com/3526X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "313" .
+<http://www.si2.com/3526X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "400013N" .
+<http://www.si2.com/3526X> <http://aemet.linkeddata.es/ontology/Province> "CACERES" .
+<http://www.si2.com/3526X> <http://aemet.linkeddata.es/ontology/indsinop> "08251" .
+<http://www.si2.com/3526X> <http://aemet.linkeddata.es/ontology/stationName> "CORIA" .
+<http://www.si2.com/3463X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "055115W" .
+<http://www.si2.com/3463X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "503" .
+<http://www.si2.com/3463X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392857N" .
+<http://www.si2.com/3463X> <http://aemet.linkeddata.es/ontology/Province> "CACERES" .
+<http://www.si2.com/3463X> <http://aemet.linkeddata.es/ontology/indsinop> "08263" .
+<http://www.si2.com/3463X> <http://aemet.linkeddata.es/ontology/stationName> "TRUJILLO" .
+<http://www.si2.com/1387> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "082517W" .
+<http://www.si2.com/1387> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "58" .
+<http://www.si2.com/1387> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432157N" .
+<http://www.si2.com/1387> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1387> <http://aemet.linkeddata.es/ontology/indsinop> "08001" .
+<http://www.si2.com/1387> <http://aemet.linkeddata.es/ontology/stationName> "A CORUÑA" .
+<http://www.si2.com/9001D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040938W" .
+<http://www.si2.com/9001D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "870" .
+<http://www.si2.com/9001D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425931N" .
+<http://www.si2.com/9001D> <http://aemet.linkeddata.es/ontology/Province> "CANTABRIA" .
+<http://www.si2.com/9001D> <http://aemet.linkeddata.es/ontology/indsinop> "08032" .
+<http://www.si2.com/9001D> <http://aemet.linkeddata.es/ontology/stationName> "REINOSA" .
+<http://www.si2.com/1484C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "083657W" .
+<http://www.si2.com/1484C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "108" .
+<http://www.si2.com/1484C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422618N" .
+<http://www.si2.com/1484C> <http://aemet.linkeddata.es/ontology/Province> "PONTEVEDRA" .
+<http://www.si2.com/1484C> <http://aemet.linkeddata.es/ontology/indsinop> "08044" .
+<http://www.si2.com/1484C> <http://aemet.linkeddata.es/ontology/stationName> "PONTEVEDRA" .
+<http://www.si2.com/7247X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "010217W" .
+<http://www.si2.com/7247X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "575" .
+<http://www.si2.com/7247X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "382359N" .
+<http://www.si2.com/7247X> <http://aemet.linkeddata.es/ontology/Province> "ALICANTE" .
+<http://www.si2.com/7247X> <http://aemet.linkeddata.es/ontology/indsinop> "08357" .
+<http://www.si2.com/7247X> <http://aemet.linkeddata.es/ontology/stationName> "PINOSO " .
+<http://www.si2.com/8416> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "002159W" .
+<http://www.si2.com/8416> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "11" .
+<http://www.si2.com/8416> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392850N" .
+<http://www.si2.com/8416> <http://aemet.linkeddata.es/ontology/Province> "VALENCIA" .
+<http://www.si2.com/8416> <http://aemet.linkeddata.es/ontology/indsinop> "08285" .
+<http://www.si2.com/8416> <http://aemet.linkeddata.es/ontology/stationName> "VALÈNCIA" .
+<http://www.si2.com/2374X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "043702W" .
+<http://www.si2.com/2374X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "830" .
+<http://www.si2.com/2374X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422103N" .
+<http://www.si2.com/2374X> <http://aemet.linkeddata.es/ontology/Province> "PALENCIA" .
+<http://www.si2.com/2374X> <http://aemet.linkeddata.es/ontology/indsinop> "08068" .
+<http://www.si2.com/2374X> <http://aemet.linkeddata.es/ontology/stationName> "CARRIÓN DE LOS CONDES" .
+<http://www.si2.com/C659M> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "152517W" .
+<http://www.si2.com/C659M> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "15" .
+<http://www.si2.com/C659M> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "280647N" .
+<http://www.si2.com/C659M> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C659M> <http://aemet.linkeddata.es/ontology/indsinop> "60032" .
+<http://www.si2.com/C659M> <http://aemet.linkeddata.es/ontology/stationName> "LAS PALMAS DE GRAN CANARIA, PL. DE LA FERIA" .
+<http://www.si2.com/1111> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034802W" .
+<http://www.si2.com/1111> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "52" .
+<http://www.si2.com/1111> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432928N" .
+<http://www.si2.com/1111> <http://aemet.linkeddata.es/ontology/Province> "CANTABRIA" .
+<http://www.si2.com/1111> <http://aemet.linkeddata.es/ontology/indsinop> "08023" .
+<http://www.si2.com/1111> <http://aemet.linkeddata.es/ontology/stationName> "SANTANDER" .
+<http://www.si2.com/1111X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034802W" .
+<http://www.si2.com/1111X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "52" .
+<http://www.si2.com/1111X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432928N" .
+<http://www.si2.com/1111X> <http://aemet.linkeddata.es/ontology/Province> "CANTABRIA" .
+<http://www.si2.com/1111X> <http://aemet.linkeddata.es/ontology/indsinop> "08023" .
+<http://www.si2.com/1111X> <http://aemet.linkeddata.es/ontology/stationName> "SANTANDER" .
+<http://www.si2.com/1082> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "025423W" .
+<http://www.si2.com/1082> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "42" .
+<http://www.si2.com/1082> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "431753N" .
+<http://www.si2.com/1082> <http://aemet.linkeddata.es/ontology/Province> "BIZKAIA" .
+<http://www.si2.com/1082> <http://aemet.linkeddata.es/ontology/indsinop> "08025" .
+<http://www.si2.com/1082> <http://aemet.linkeddata.es/ontology/stationName> "BILBAO AEROPUERTO" .
+<http://www.si2.com/1014A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "014732W" .
+<http://www.si2.com/1014A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "4" .
+<http://www.si2.com/1014A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432125N" .
+<http://www.si2.com/1014A> <http://aemet.linkeddata.es/ontology/Province> "GIPUZKOA" .
+<http://www.si2.com/1014A> <http://aemet.linkeddata.es/ontology/indsinop> "08029" .
+<http://www.si2.com/1014A> <http://aemet.linkeddata.es/ontology/stationName> "SAN SEBASTIÁN AEROPUERTO" .
+<http://www.si2.com/9381I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "011736W" .
+<http://www.si2.com/9381I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "890" .
+<http://www.si2.com/9381I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405534N" .
+<http://www.si2.com/9381I> <http://aemet.linkeddata.es/ontology/Province> "TERUEL" .
+<http://www.si2.com/9381I> <http://aemet.linkeddata.es/ontology/indsinop> "08233" .
+<http://www.si2.com/9381I> <http://aemet.linkeddata.es/ontology/stationName> "CALAMOCHA" .
+<http://www.si2.com/4121C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "035545W" .
+<http://www.si2.com/4121C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "627" .
+<http://www.si2.com/4121C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385916N" .
+<http://www.si2.com/4121C> <http://aemet.linkeddata.es/ontology/Province> "CIUDAD REAL" .
+<http://www.si2.com/4121C> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/4121C> <http://aemet.linkeddata.es/ontology/stationName> "CIUDAD REAL, INSTITUTO" .
+<http://www.si2.com/C689E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "153545W" .
+<http://www.si2.com/C689E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "6" .
+<http://www.si2.com/C689E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "274409N" .
+<http://www.si2.com/C689E> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C689E> <http://aemet.linkeddata.es/ontology/indsinop> "60037" .
+<http://www.si2.com/C689E> <http://aemet.linkeddata.es/ontology/stationName> "MASPALOMAS" .
+<http://www.si2.com/9263D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "013900W" .
+<http://www.si2.com/9263D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "459" .
+<http://www.si2.com/9263D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "424637N" .
+<http://www.si2.com/9263D> <http://aemet.linkeddata.es/ontology/Province> "NAVARRA" .
+<http://www.si2.com/9263D> <http://aemet.linkeddata.es/ontology/indsinop> "08085" .
+<http://www.si2.com/9263D> <http://aemet.linkeddata.es/ontology/stationName> "PAMPLONA AEROPUERTO" .
+<http://www.si2.com/6297> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "022720W" .
+<http://www.si2.com/6297> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "7" .
+<http://www.si2.com/6297> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364952N" .
+<http://www.si2.com/6297> <http://aemet.linkeddata.es/ontology/Province> "ALMERIA" .
+<http://www.si2.com/6297> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/6297> <http://aemet.linkeddata.es/ontology/stationName> "ALMERÍA" .
+<http://www.si2.com/9576C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "001028W" .
+<http://www.si2.com/9576C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "357" .
+<http://www.si2.com/9576C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "413121N" .
+<http://www.si2.com/9576C> <http://aemet.linkeddata.es/ontology/Province> "ZARAGOZA" .
+<http://www.si2.com/9576C> <http://aemet.linkeddata.es/ontology/indsinop> "08165" .
+<http://www.si2.com/9576C> <http://aemet.linkeddata.es/ontology/stationName> "BUJARALOZ" .
+<http://www.si2.com/8368U> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "010727W" .
+<http://www.si2.com/8368U> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "900" .
+<http://www.si2.com/8368U> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402102N" .
+<http://www.si2.com/8368U> <http://aemet.linkeddata.es/ontology/Province> "TERUEL" .
+<http://www.si2.com/8368U> <http://aemet.linkeddata.es/ontology/indsinop> "08235" .
+<http://www.si2.com/8368U> <http://aemet.linkeddata.es/ontology/stationName> "TERUEL" .
+<http://www.si2.com/1495> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "083726W" .
+<http://www.si2.com/1495> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "261" .
+<http://www.si2.com/1495> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "421419N" .
+<http://www.si2.com/1495> <http://aemet.linkeddata.es/ontology/Province> "PONTEVEDRA" .
+<http://www.si2.com/1495> <http://aemet.linkeddata.es/ontology/indsinop> "08045" .
+<http://www.si2.com/1495> <http://aemet.linkeddata.es/ontology/stationName> "VIGO AEROPUERTO" .
+<http://www.si2.com/2400E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "043610W" .
+<http://www.si2.com/2400E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "874" .
+<http://www.si2.com/2400E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "415944N" .
+<http://www.si2.com/2400E> <http://aemet.linkeddata.es/ontology/Province> "PALENCIA" .
+<http://www.si2.com/2400E> <http://aemet.linkeddata.es/ontology/indsinop> "08072" .
+<http://www.si2.com/2400E> <http://aemet.linkeddata.es/ontology/stationName> "AUTILLA DEL PINO" .
+<http://www.si2.com/7178I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "011015W" .
+<http://www.si2.com/7178I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "61" .
+<http://www.si2.com/7178I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "380007N" .
+<http://www.si2.com/7178I> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7178I> <http://aemet.linkeddata.es/ontology/indsinop> "08430" .
+<http://www.si2.com/7178I> <http://aemet.linkeddata.es/ontology/stationName> "MURCIA" .
+<http://www.si2.com/6000A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "025723W" .
+<http://www.si2.com/6000A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "52" .
+<http://www.si2.com/6000A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "351635N" .
+<http://www.si2.com/6000A> <http://aemet.linkeddata.es/ontology/Province> "MELILLA" .
+<http://www.si2.com/6000A> <http://aemet.linkeddata.es/ontology/indsinop> "60338" .
+<http://www.si2.com/6000A> <http://aemet.linkeddata.es/ontology/stationName> "MELILLA" .
+<http://www.si2.com/B228> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "023731E" .
+<http://www.si2.com/B228> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "3" .
+<http://www.si2.com/B228> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "393312N" .
+<http://www.si2.com/B228> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B228> <http://aemet.linkeddata.es/ontology/indsinop> "08301" .
+<http://www.si2.com/B228> <http://aemet.linkeddata.es/ontology/stationName> "PALMA, PUERTO" .
+<http://www.si2.com/3013> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "015244W" .
+<http://www.si2.com/3013> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1062" .
+<http://www.si2.com/3013> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405030N" .
+<http://www.si2.com/3013> <http://aemet.linkeddata.es/ontology/Province> "GUADALAJARA" .
+<http://www.si2.com/3013> <http://aemet.linkeddata.es/ontology/indsinop> "08232" .
+<http://www.si2.com/3013> <http://aemet.linkeddata.es/ontology/stationName> "MOLINA DE ARAGÓN" .
+<http://www.si2.com/8019> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "003415W" .
+<http://www.si2.com/8019> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "43" .
+<http://www.si2.com/8019> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "381658N" .
+<http://www.si2.com/8019> <http://aemet.linkeddata.es/ontology/Province> "ALICANTE" .
+<http://www.si2.com/8019> <http://aemet.linkeddata.es/ontology/indsinop> "08360" .
+<http://www.si2.com/8019> <http://aemet.linkeddata.es/ontology/stationName> "ALICANTE-ELCHE AEROPUERTO" .
+<http://www.si2.com/4148> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033400W" .
+<http://www.si2.com/4148> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "778" .
+<http://www.si2.com/4148> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "383105N" .
+<http://www.si2.com/4148> <http://aemet.linkeddata.es/ontology/Province> "CIUDAD REAL" .
+<http://www.si2.com/4148> <http://aemet.linkeddata.es/ontology/indsinop> "08345" .
+<http://www.si2.com/4148> <http://aemet.linkeddata.es/ontology/stationName> "VISO DEL MARQUÉS" .
+<http://www.si2.com/3168C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "031024W" .
+<http://www.si2.com/3168C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "639" .
+<http://www.si2.com/3168C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "403933N" .
+<http://www.si2.com/3168C> <http://aemet.linkeddata.es/ontology/Province> "GUADALAJARA" .
+<http://www.si2.com/3168C> <http://aemet.linkeddata.es/ontology/indsinop> "08226" .
+<http://www.si2.com/3168C> <http://aemet.linkeddata.es/ontology/stationName> "GUADALAJARA, EL SERRANILLO" .
+<http://www.si2.com/5911A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "052227W" .
+<http://www.si2.com/5911A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "913" .
+<http://www.si2.com/5911A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364538N" .
+<http://www.si2.com/5911A> <http://aemet.linkeddata.es/ontology/Province> "CADIZ" .
+<http://www.si2.com/5911A> <http://aemet.linkeddata.es/ontology/indsinop> "08455" .
+<http://www.si2.com/5911A> <http://aemet.linkeddata.es/ontology/stationName> "GRAZALEMA" .
+<http://www.si2.com/B691Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030100E" .
+<http://www.si2.com/B691Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "40" .
+<http://www.si2.com/B691Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "394457N" .
+<http://www.si2.com/B691Y> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B691Y> <http://aemet.linkeddata.es/ontology/indsinop> "08312" .
+<http://www.si2.com/B691Y> <http://aemet.linkeddata.es/ontology/stationName> "SA POBLA" .
+<http://www.si2.com/4511C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "064554W" .
+<http://www.si2.com/4511C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "381" .
+<http://www.si2.com/4511C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "381755N" .
+<http://www.si2.com/4511C> <http://aemet.linkeddata.es/ontology/Province> "BADAJOZ" .
+<http://www.si2.com/4511C> <http://aemet.linkeddata.es/ontology/indsinop> "08337" .
+<http://www.si2.com/4511C> <http://aemet.linkeddata.es/ontology/stationName> "JEREZ DE LOS CABALLEROS" .
+<http://www.si2.com/3469A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "062020W" .
+<http://www.si2.com/3469A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "394" .
+<http://www.si2.com/3469A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392817N" .
+<http://www.si2.com/3469A> <http://aemet.linkeddata.es/ontology/Province> "CACERES" .
+<http://www.si2.com/3469A> <http://aemet.linkeddata.es/ontology/indsinop> "08261" .
+<http://www.si2.com/3469A> <http://aemet.linkeddata.es/ontology/stationName> "CÁCERES" .
+<http://www.si2.com/7119B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "015238W" .
+<http://www.si2.com/7119B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "643" .
+<http://www.si2.com/7119B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "380609N" .
+<http://www.si2.com/7119B> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7119B> <http://aemet.linkeddata.es/ontology/indsinop> "08365" .
+<http://www.si2.com/7119B> <http://aemet.linkeddata.es/ontology/stationName> "CARAVACA DE LA CRUZ" .
+<http://www.si2.com/1221D> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "054635W" .
+<http://www.si2.com/1221D> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1480" .
+<http://www.si2.com/1221D> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "425843N" .
+<http://www.si2.com/1221D> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1221D> <http://aemet.linkeddata.es/ontology/indsinop> "08031" .
+<http://www.si2.com/1221D> <http://aemet.linkeddata.es/ontology/stationName> "PUERTO DE PAJARES" .
+<http://www.si2.com/1387E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "082219W" .
+<http://www.si2.com/1387E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "98" .
+<http://www.si2.com/1387E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "431825N" .
+<http://www.si2.com/1387E> <http://aemet.linkeddata.es/ontology/Province> "A CORUÑA" .
+<http://www.si2.com/1387E> <http://aemet.linkeddata.es/ontology/indsinop> "08002" .
+<http://www.si2.com/1387E> <http://aemet.linkeddata.es/ontology/stationName> "A CORUÑA AEROPUERTO" .
+<http://www.si2.com/3576X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "071352W" .
+<http://www.si2.com/3576X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "444" .
+<http://www.si2.com/3576X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392453N" .
+<http://www.si2.com/3576X> <http://aemet.linkeddata.es/ontology/Province> "CACERES" .
+<http://www.si2.com/3576X> <http://aemet.linkeddata.es/ontology/indsinop> "08260" .
+<http://www.si2.com/3576X> <http://aemet.linkeddata.es/ontology/stationName> "VALENCIA DE ALCÁNTARA" .
+<http://www.si2.com/0076> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "020412E" .
+<http://www.si2.com/0076> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "4" .
+<http://www.si2.com/0076> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "411734N" .
+<http://www.si2.com/0076> <http://aemet.linkeddata.es/ontology/Province> "BARCELONA" .
+<http://www.si2.com/0076> <http://aemet.linkeddata.es/ontology/indsinop> "08181" .
+<http://www.si2.com/0076> <http://aemet.linkeddata.es/ontology/stationName> "BARCELONA AEROPUERTO" .
+<http://www.si2.com/5704B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "054611W" .
+<http://www.si2.com/5704B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "550" .
+<http://www.si2.com/5704B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "375535N" .
+<http://www.si2.com/5704B> <http://aemet.linkeddata.es/ontology/Province> "SEVILLA" .
+<http://www.si2.com/5704B> <http://aemet.linkeddata.es/ontology/indsinop> "08392" .
+<http://www.si2.com/5704B> <http://aemet.linkeddata.es/ontology/stationName> "CAZALLA DE LA SIERRA" .
+<http://www.si2.com/4090Y> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "022514W" .
+<http://www.si2.com/4090Y> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "728" .
+<http://www.si2.com/4090Y> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "392500N" .
+<http://www.si2.com/4090Y> <http://aemet.linkeddata.es/ontology/Province> "CUENCA" .
+<http://www.si2.com/4090Y> <http://aemet.linkeddata.es/ontology/indsinop> "08256" .
+<http://www.si2.com/4090Y> <http://aemet.linkeddata.es/ontology/stationName> "SAN CLEMENTE" .
+<http://www.si2.com/B278> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024412E" .
+<http://www.si2.com/B278> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "8" .
+<http://www.si2.com/B278> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "393339N" .
+<http://www.si2.com/B278> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B278> <http://aemet.linkeddata.es/ontology/indsinop> "08306" .
+<http://www.si2.com/B278> <http://aemet.linkeddata.es/ontology/stationName> "PALMA, AEROPUERTO" .
+<http://www.si2.com/3100B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033246W" .
+<http://www.si2.com/3100B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "540" .
+<http://www.si2.com/3100B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "400402N" .
+<http://www.si2.com/3100B> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3100B> <http://aemet.linkeddata.es/ontology/indsinop> "08229" .
+<http://www.si2.com/3100B> <http://aemet.linkeddata.es/ontology/stationName> "ARANJUEZ" .
+<http://www.si2.com/B954> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "012304E" .
+<http://www.si2.com/B954> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "6" .
+<http://www.si2.com/B954> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "385235N" .
+<http://www.si2.com/B954> <http://aemet.linkeddata.es/ontology/Province> "ILLES BALEARS" .
+<http://www.si2.com/B954> <http://aemet.linkeddata.es/ontology/indsinop> "08373" .
+<http://www.si2.com/B954> <http://aemet.linkeddata.es/ontology/stationName> "IBIZA, AEROPUERTO" .
+<http://www.si2.com/C659H> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "152458W" .
+<http://www.si2.com/C659H> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "55" .
+<http://www.si2.com/C659H> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "280523N" .
+<http://www.si2.com/C659H> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C659H> <http://aemet.linkeddata.es/ontology/indsinop> "60029" .
+<http://www.si2.com/C659H> <http://aemet.linkeddata.es/ontology/stationName> "LAS PALMAS DE GRAN CANARIA, SAN CRISTOBAL" .
+<http://www.si2.com/5270> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034720W" .
+<http://www.si2.com/5270> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "510" .
+<http://www.si2.com/5270> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "374635N" .
+<http://www.si2.com/5270> <http://aemet.linkeddata.es/ontology/Province> "JAEN" .
+<http://www.si2.com/5270> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/5270> <http://aemet.linkeddata.es/ontology/stationName> "JAÉN, INSTITUTO" .
+<http://www.si2.com/6032B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "051006W" .
+<http://www.si2.com/6032B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "766" .
+<http://www.si2.com/6032B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364459N" .
+<http://www.si2.com/6032B> <http://aemet.linkeddata.es/ontology/Province> "MALAGA" .
+<http://www.si2.com/6032B> <http://aemet.linkeddata.es/ontology/indsinop> "08443" .
+<http://www.si2.com/6032B> <http://aemet.linkeddata.es/ontology/stationName> "RONDA" .
+<http://www.si2.com/5796> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053641W" .
+<http://www.si2.com/5796> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "87" .
+<http://www.si2.com/5796> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "370952N" .
+<http://www.si2.com/5796> <http://aemet.linkeddata.es/ontology/Province> "SEVILLA" .
+<http://www.si2.com/5796> <http://aemet.linkeddata.es/ontology/indsinop> "08397" .
+<http://www.si2.com/5796> <http://aemet.linkeddata.es/ontology/stationName> "MORÓN DE LA FRONTERA" .
+<http://www.si2.com/C429I> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "163340W" .
+<http://www.si2.com/C429I> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "64" .
+<http://www.si2.com/C429I> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "280249N" .
+<http://www.si2.com/C429I> <http://aemet.linkeddata.es/ontology/Province> "STA. CRUZ DE TENERIFE" .
+<http://www.si2.com/C429I> <http://aemet.linkeddata.es/ontology/indsinop> "60025" .
+<http://www.si2.com/C429I> <http://aemet.linkeddata.es/ontology/stationName> "TENERIFE SUR AEROPUERTO" .
+<http://www.si2.com/9262> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "013818W" .
+<http://www.si2.com/9262> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "450" .
+<http://www.si2.com/9262> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "424904N" .
+<http://www.si2.com/9262> <http://aemet.linkeddata.es/ontology/Province> "NAVARRA" .
+<http://www.si2.com/9262> <http://aemet.linkeddata.es/ontology/indsinop> "" .
+<http://www.si2.com/9262> <http://aemet.linkeddata.es/ontology/stationName> "PAMPLONA" .
+<http://www.si2.com/2867> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "052954W" .
+<http://www.si2.com/2867> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "790" .
+<http://www.si2.com/2867> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "405734N" .
+<http://www.si2.com/2867> <http://aemet.linkeddata.es/ontology/Province> "SALAMANCA" .
+<http://www.si2.com/2867> <http://aemet.linkeddata.es/ontology/indsinop> "08202" .
+<http://www.si2.com/2867> <http://aemet.linkeddata.es/ontology/stationName> "SALAMANCA AEROPUERTO" .
+<http://www.si2.com/1014> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "014732W" .
+<http://www.si2.com/1014> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "4" .
+<http://www.si2.com/1014> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432125N" .
+<http://www.si2.com/1014> <http://aemet.linkeddata.es/ontology/Province> "GIPUZKOA" .
+<http://www.si2.com/1014> <http://aemet.linkeddata.es/ontology/indsinop> "08029" .
+<http://www.si2.com/1014> <http://aemet.linkeddata.es/ontology/stationName> "HONDARRIBIA, MALKARROA" .
+<http://www.si2.com/3044X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "020900W" .
+<http://www.si2.com/3044X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "940" .
+<http://www.si2.com/3044X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "403149N" .
+<http://www.si2.com/3044X> <http://aemet.linkeddata.es/ontology/Province> "CUENCA" .
+<http://www.si2.com/3044X> <http://aemet.linkeddata.es/ontology/indsinop> "08230" .
+<http://www.si2.com/3044X> <http://aemet.linkeddata.es/ontology/stationName> "CAÑIZARES" .
+<http://www.si2.com/C629X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "154551W" .
+<http://www.si2.com/C629X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "10" .
+<http://www.si2.com/C629X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "274859N" .
+<http://www.si2.com/C629X> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C629X> <http://aemet.linkeddata.es/ontology/indsinop> "60036" .
+<http://www.si2.com/C629X> <http://aemet.linkeddata.es/ontology/stationName> "MOGÁN, PUERTO" .
+<http://www.si2.com/4244X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "050344W" .
+<http://www.si2.com/4244X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "447" .
+<http://www.si2.com/4244X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "391010N" .
+<http://www.si2.com/4244X> <http://aemet.linkeddata.es/ontology/Province> "BADAJOZ" .
+<http://www.si2.com/4244X> <http://aemet.linkeddata.es/ontology/indsinop> "08264" .
+<http://www.si2.com/4244X> <http://aemet.linkeddata.es/ontology/stationName> "HERRERA DEL DUQUE" .
+<http://www.si2.com/2462> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "040038W" .
+<http://www.si2.com/2462> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "1894" .
+<http://www.si2.com/2462> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "404735N" .
+<http://www.si2.com/2462> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/2462> <http://aemet.linkeddata.es/ontology/indsinop> "08215" .
+<http://www.si2.com/2462> <http://aemet.linkeddata.es/ontology/stationName> "PUERTO DE NAVACERRADA" .
+<http://www.si2.com/7012C> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "005916W" .
+<http://www.si2.com/7012C> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "17" .
+<http://www.si2.com/7012C> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "373604N" .
+<http://www.si2.com/7012C> <http://aemet.linkeddata.es/ontology/Province> "MURCIA" .
+<http://www.si2.com/7012C> <http://aemet.linkeddata.es/ontology/indsinop> "08434" .
+<http://www.si2.com/7012C> <http://aemet.linkeddata.es/ontology/stationName> "CARTAGENA" .
+<http://www.si2.com/9170> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "021952W" .
+<http://www.si2.com/9170> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "353" .
+<http://www.si2.com/9170> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "422708N" .
+<http://www.si2.com/9170> <http://aemet.linkeddata.es/ontology/Province> "LA RIOJA" .
+<http://www.si2.com/9170> <http://aemet.linkeddata.es/ontology/indsinop> "08084" .
+<http://www.si2.com/9170> <http://aemet.linkeddata.es/ontology/stationName> "LOGROÑO AEROPUERTO" .
+<http://www.si2.com/3200> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "034320W" .
+<http://www.si2.com/3200> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "620" .
+<http://www.si2.com/3200> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "401758N" .
+<http://www.si2.com/3200> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3200> <http://aemet.linkeddata.es/ontology/indsinop> "08224" .
+<http://www.si2.com/3200> <http://aemet.linkeddata.es/ontology/stationName> "GETAFE" .
+<http://www.si2.com/2661B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "053837W" .
+<http://www.si2.com/2661B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "912" .
+<http://www.si2.com/2661B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "423558N" .
+<http://www.si2.com/2661B> <http://aemet.linkeddata.es/ontology/Province> "LEON" .
+<http://www.si2.com/2661B> <http://aemet.linkeddata.es/ontology/indsinop> "08055" .
+<http://www.si2.com/2661B> <http://aemet.linkeddata.es/ontology/stationName> "LEÓN AEROPUERTO" .
+<http://www.si2.com/6205X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "035726W" .
+<http://www.si2.com/6205X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "3" .
+<http://www.si2.com/6205X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "364335N" .
+<http://www.si2.com/6205X> <http://aemet.linkeddata.es/ontology/Province> "MALAGA" .
+<http://www.si2.com/6205X> <http://aemet.linkeddata.es/ontology/indsinop> "08484" .
+<http://www.si2.com/6205X> <http://aemet.linkeddata.es/ontology/stationName> "TORROX" .
+<http://www.si2.com/5783> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "055245W" .
+<http://www.si2.com/5783> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "34" .
+<http://www.si2.com/5783> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "372500N" .
+<http://www.si2.com/5783> <http://aemet.linkeddata.es/ontology/Province> "SEVILLA" .
+<http://www.si2.com/5783> <http://aemet.linkeddata.es/ontology/indsinop> "08391" .
+<http://www.si2.com/5783> <http://aemet.linkeddata.es/ontology/stationName> "SEVILLA AEROPUERTO" .
+<http://www.si2.com/8500A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "000419W" .
+<http://www.si2.com/8500A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "43" .
+<http://www.si2.com/8500A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "395726N" .
+<http://www.si2.com/8500A> <http://aemet.linkeddata.es/ontology/Province> "CASTELLON" .
+<http://www.si2.com/8500A> <http://aemet.linkeddata.es/ontology/indsinop> "08286" .
+<http://www.si2.com/8500A> <http://aemet.linkeddata.es/ontology/stationName> "CASTELLÓN - ALMASSORA" .
+<http://www.si2.com/7096B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "014211W" .
+<http://www.si2.com/7096B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "605" .
+<http://www.si2.com/7096B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "383231N" .
+<http://www.si2.com/7096B> <http://aemet.linkeddata.es/ontology/Province> "ALBACETE" .
+<http://www.si2.com/7096B> <http://aemet.linkeddata.es/ontology/indsinop> "08355" .
+<http://www.si2.com/7096B> <http://aemet.linkeddata.es/ontology/stationName> "HELLÍN" .
+<http://www.si2.com/5047E> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "024406W" .
+<http://www.si2.com/5047E> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "785" .
+<http://www.si2.com/5047E> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "373021N" .
+<http://www.si2.com/5047E> <http://aemet.linkeddata.es/ontology/Province> "GRANADA" .
+<http://www.si2.com/5047E> <http://aemet.linkeddata.es/ontology/indsinop> "08424" .
+<http://www.si2.com/5047E> <http://aemet.linkeddata.es/ontology/stationName> "BAZA" .
+<http://www.si2.com/6367B> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "015637W" .
+<http://www.si2.com/6367B> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "300" .
+<http://www.si2.com/6367B> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "372326N" .
+<http://www.si2.com/6367B> <http://aemet.linkeddata.es/ontology/Province> "ALMERIA" .
+<http://www.si2.com/6367B> <http://aemet.linkeddata.es/ontology/indsinop> "08428" .
+<http://www.si2.com/6367B> <http://aemet.linkeddata.es/ontology/stationName> "HUERCAL OVERA" .
+<http://www.si2.com/3129> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "033320W" .
+<http://www.si2.com/3129> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "609" .
+<http://www.si2.com/3129> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "402800N" .
+<http://www.si2.com/3129> <http://aemet.linkeddata.es/ontology/Province> "MADRID" .
+<http://www.si2.com/3129> <http://aemet.linkeddata.es/ontology/indsinop> "08221" .
+<http://www.si2.com/3129> <http://aemet.linkeddata.es/ontology/stationName> "MADRID AEROPUERTO" .
+<http://www.si2.com/9394X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "013843W" .
+<http://www.si2.com/9394X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "600" .
+<http://www.si2.com/9394X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "411952N" .
+<http://www.si2.com/9394X> <http://aemet.linkeddata.es/ontology/Province> "ZARAGOZA" .
+<http://www.si2.com/9394X> <http://aemet.linkeddata.es/ontology/indsinop> "08156" .
+<http://www.si2.com/9394X> <http://aemet.linkeddata.es/ontology/stationName> "CALATAYUD" .
+<http://www.si2.com/3365A> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "045149W" .
+<http://www.si2.com/3365A> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "372" .
+<http://www.si2.com/3365A> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "395731N" .
+<http://www.si2.com/3365A> <http://aemet.linkeddata.es/ontology/Province> "TOLEDO" .
+<http://www.si2.com/3365A> <http://aemet.linkeddata.es/ontology/indsinop> "08274" .
+<http://www.si2.com/3365A> <http://aemet.linkeddata.es/ontology/stationName> "TALAVERA DE LA REINA" .
+<http://www.si2.com/5038X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "030014W" .
+<http://www.si2.com/5038X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "813" .
+<http://www.si2.com/5038X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "375457N" .
+<http://www.si2.com/5038X> <http://aemet.linkeddata.es/ontology/Province> "JAEN" .
+<http://www.si2.com/5038X> <http://aemet.linkeddata.es/ontology/indsinop> "08353" .
+<http://www.si2.com/5038X> <http://aemet.linkeddata.es/ontology/stationName> "CAZORLA" .
+<http://www.si2.com/1249X> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "055227W" .
+<http://www.si2.com/1249X> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "336" .
+<http://www.si2.com/1249X> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "432112N" .
+<http://www.si2.com/1249X> <http://aemet.linkeddata.es/ontology/Province> "ASTURIAS" .
+<http://www.si2.com/1249X> <http://aemet.linkeddata.es/ontology/indsinop> "08015" .
+<http://www.si2.com/1249X> <http://aemet.linkeddata.es/ontology/stationName> "OVIEDO" .
+<http://www.si2.com/C229J> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "142129W" .
+<http://www.si2.com/C229J> <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "15" .
+<http://www.si2.com/C229J> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "280257N" .
+<http://www.si2.com/C229J> <http://aemet.linkeddata.es/ontology/Province> "LAS PALMAS" .
+<http://www.si2.com/C229J> <http://aemet.linkeddata.es/ontology/indsinop> "60034" .
+<http://www.si2.com/C229J> <http://aemet.linkeddata.es/ontology/stationName> "PÁJARA" .
