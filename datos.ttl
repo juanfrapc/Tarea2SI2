@@ -1,0 +1,6 @@
+@prefix si2: <http://www.si2.com/si2/>
+
+si2:ACorunya si2:perteneceA si2:Galicia.
+si2:Lugo si2:perteneceA si2:Galicia.
+si2:Ourense si2:perteneceA si2:Galicia.
+si2:Pontevedra si2:perteneceA si2:Galicia.

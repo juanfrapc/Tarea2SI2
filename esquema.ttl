@@ -1,0 +1,11 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+@prefix si2: <http://www.si2.com/si2/>
+
+si2:ComunidadAutonoma rdfs:subClassOf si2:DelimitacionGeografica.
+si2:Provincia rdfs:subClassOf si2:DelimitacionGeografica.
+
+si2:perteneceA
+    rdfs:domain si2:Provincia;
+    rdfs:range si2:ComunidadAutonoma.
