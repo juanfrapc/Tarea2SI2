@@ -18,19 +18,7 @@ import java.util.ArrayList;
 
 public class Grafo {
 
-    private enum Provincia{
-
-        ACORUÑA(new String[]{"A CORUÑA", "A CORUNYA", "ACORUÑA"});
-
-
-        private ArrayList toponimos = new ArrayList<String>();
-
-        Provincia(String[] nombres) {
-            for (String nombre : nombres) {
-                this.toponimos.add(nombre);
-            }
-        }
-    }
+    private Reasoner reasonerScheme;
 
     public static final int TURTTLE = 0;
     public static final int XML = 1;
@@ -82,7 +70,7 @@ public class Grafo {
         Model modelDatos = RDFDataMgr.loadModel(datos);
 
         Reasoner reasoner = ReasonerRegistry.getRDFSReasoner();
-        switch(type){
+        switch (type) {
             case RDFSREASONER:
                 reasoner.setParameter(ReasonerVocabulary.PROPsetRDFSLevel, ReasonerVocabulary.RDFS_FULL);
                 break;
@@ -90,7 +78,7 @@ public class Grafo {
                 reasoner.setParameter(ReasonerVocabulary.PROPsetRDFSLevel, ReasonerVocabulary.RDFS_SIMPLE);
                 break;
         }
-        Reasoner reasonerScheme = reasoner.bindSchema(modelEsq);
+        reasonerScheme = reasoner.bindSchema(modelEsq);
         modelo = ModelFactory.createInfModel(reasonerScheme, modelDatos);
     }
 
@@ -125,8 +113,13 @@ public class Grafo {
         }
     }
 
-    public Model union(Grafo grafo) {
-        this.modelo = modelo.union(grafo.modelo);
+    public Model inferir(Grafo grafo) {
+        if (grafo.modelo instanceof InfModel) {
+            InfModel infModel = ModelFactory.createInfModel(reasonerScheme, grafo.modelo);
+            this.modelo = modelo.union(infModel);
+        }else {
+            this.modelo =modelo.union(grafo.modelo);
+        }
         return this.modelo;
     }
 

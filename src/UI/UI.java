@@ -44,7 +44,7 @@ public class UI {
             @Override
             public void actionPerformed(ActionEvent e) {
                 grafo = new Grafo("datos.ttl", "esquema.ttl", selected);
-                grafo.union(DataLoader.cargaGrafoEstaciones());
+                grafo.inferir(DataLoader.cargaGrafoEstaciones());
                 String file = outputPath.getText() + "\\" + outputFileName.getText();
                 serialArea.setText(null);
                 try {

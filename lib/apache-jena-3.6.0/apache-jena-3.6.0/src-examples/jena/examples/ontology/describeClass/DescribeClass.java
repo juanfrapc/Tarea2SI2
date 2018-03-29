@@ -100,7 +100,7 @@ public class DescribeClass {
      */
     public void renderClassDescription( PrintStream out, OntClass c ) {
         if (c.isUnionClass()) {
-            renderBooleanClass( out, "union", c.asUnionClass() );
+            renderBooleanClass( out, "inferir", c.asUnionClass() );
         }
         else if (c.isIntersectionClass()) {
             renderBooleanClass( out, "intersection", c.asIntersectionClass() );

@@ -46,7 +46,7 @@ public class ExQuadFilter
 
     public static void main(String ... args)
     {
-        // This also works for default union graph ....
+        // This also works for default inferir graph ....
         TDB.getContext().setTrue(TDB.symUnionDefaultGraph) ;
         
         Dataset ds = setup() ;

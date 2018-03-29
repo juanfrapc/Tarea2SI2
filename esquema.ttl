@@ -14,3 +14,7 @@ si2:perteneceAComunidad
 si2:perteneceAPais
    rdfs:domain si2:ComunidadAutonoma;
    rdfs:range si2:Pais.
+
+si2:esta
+    rdfs:domain si2:EstacionMeteorologica;
+    rdfs:range si2:Provincia.
