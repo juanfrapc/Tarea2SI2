@@ -1,8 +1,6 @@
 package Model;
 
 import org.apache.jena.atlas.logging.LogCtl;
-import org.apache.jena.graph.Node;
-import org.apache.jena.graph.NodeFactory;
 import org.apache.jena.rdf.model.*;
 import org.apache.jena.reasoner.Reasoner;
 import org.apache.jena.reasoner.ReasonerRegistry;
@@ -14,7 +12,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.OutputStream;
-import java.util.ArrayList;
 
 public class Grafo {
 
@@ -37,6 +34,7 @@ public class Grafo {
 
 
     private Model modelo;
+    private Toponimos toponimos = Toponimos.getInstance();
     private final Property indsinop;
     private final Property province;
     private final Property latitud;
@@ -87,10 +85,14 @@ public class Grafo {
         resource.addLiteral(nombre, node.getString("nombre"));
         resource.addLiteral(indsinop, node.getString("indsinop"));
         resource.addLiteral(province, node.getString("provincia"));
-        resource.addProperty(provincia, modelo.createResource(si2 + node.getString("provincia")));
+        resource.addProperty(provincia, getProvinceNode(node));
         resource.addLiteral(latitud, node.getString("latitud"));
         resource.addLiteral(altitud, node.getString("altitud"));
         resource.addLiteral(longitud, node.getString("longitud"));
+    }
+
+    private Resource getProvinceNode(JSONObject node) throws JSONException {
+        return modelo.createResource(si2 + toponimos.getCanonical(node.getString("provincia")));
     }
 
     public void addStation(JSONArray array) throws JSONException {
@@ -117,6 +119,7 @@ public class Grafo {
         if (grafo.modelo instanceof InfModel) {
             InfModel infModel = ModelFactory.createInfModel(reasonerScheme, grafo.modelo);
             this.modelo = modelo.union(infModel);
+            System.out.println("aaaaaaaaa");
         }else {
             this.modelo =modelo.union(grafo.modelo);
         }

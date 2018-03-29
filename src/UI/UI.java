@@ -14,7 +14,7 @@ import static Model.Grafo.SIMPLEREASONER;
 import static Model.Grafo.TURTTLE;
 
 public class UI {
-    public int selected = RDFSREASONER;
+    public int selected = SIMPLEREASONER;
 
     private Grafo grafo;
     private JPanel contentPane;

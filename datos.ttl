@@ -21,7 +21,7 @@ si2:Murcia si2:perteneceAPais si2:Espanya.
 si2:Andalucia si2:perteneceAPais si2:Espanya.
 si2:Canarias si2:perteneceAPais si2:Espanya.
 
-si2:ACorunya si2:perteneceAComunidad si2:Galicia.
+si2:ACoruña si2:perteneceAComunidad si2:Galicia.
 si2:Lugo si2:perteneceAComunidad si2:Galicia.
 si2:Ourense si2:perteneceAComunidad si2:Galicia.
 si2:Pontevedra si2:perteneceAComunidad si2:Galicia.
@@ -31,7 +31,7 @@ si2:Asturias si2:perteneceAComunidad si2:Asturias.
 si2:Cantabria si2:perteneceAComunidad si2:Cantabria.
 
 si2:Bizkaia si2:perteneceAComunidad si2:Euskadi.
-si2:Guipuzkoa si2:perteneceAComunidad si2:Euskadi.
+si2:Gipuzkoa si2:perteneceAComunidad si2:Euskadi.
 si2:Alava si2:perteneceAComunidad si2:Euskadi.
 
 si2:LaRioja si2:perteneceAComunidad si2:LaRioja.
