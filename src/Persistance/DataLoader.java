@@ -16,7 +16,7 @@ public class DataLoader {
     private static OkHttpClient client = new OkHttpClient();
     private static final String clave = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqdWFuZnJhcGNAZ21haWwuY29tIiwianRpIjoiMzg1ZTA5YjctYjYzZi00YWRiLTgxZDMtYmEwOWM4NTk1MWQxIiwiaXNzIjoiQUVNRVQiLCJpYXQiOjE1MjE0NTY1MDMsInVzZXJJZCI6IjM4NWUwOWI3LWI2M2YtNGFkYi04MWQzLWJhMDljODU5NTFkMSIsInJvbGUiOiIifQ.L9mPIfI4xTvizQm3m27Gqbg_zSIVYEuui9ZVY749kGk";
 
-    public static Grafo cargaGrafo(){
+    public static Grafo cargaGrafoEstaciones(){
         LogCtl.setCmdLogging();
         Grafo grafo = new Grafo();
 

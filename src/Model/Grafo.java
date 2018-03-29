@@ -1,8 +1,12 @@
 package Model;
 
+import org.apache.jena.atlas.logging.LogCtl;
 import org.apache.jena.rdf.model.*;
+import org.apache.jena.reasoner.Reasoner;
+import org.apache.jena.reasoner.ReasonerRegistry;
 import org.apache.jena.riot.RDFDataMgr;
 import org.apache.jena.riot.RDFFormat;
+import org.apache.jena.vocabulary.ReasonerVocabulary;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -18,10 +22,16 @@ public class Grafo {
     public static final int RDFSREASONER = 0;
     public static final int SIMPLEREASONER = 1;
 
-    private static final String si2 = "http://www.si2.com/";
+    static final String si2 = "http://www.si2.com/";
     private static final String aemet = "http://aemet.linkeddata.es/ontology/";
     private static final String geo = "http://www.w3.org/2003/01/geo/wgs84_pos#";
-    private final Model modelo;
+
+    private static final String rdf = "http://www.w3.org/1999/02/22-rdf-syntax-ns#";
+    private static final String rdfs = "http://www.w3.org/2000/01/rdf-schema#";
+    private static final String xsd = "http://www.w3.org/2001/XMLSchema#";
+
+
+    private Model modelo;
     private final Property indsinop;
     private final Property province;
     private final Property latitud;
@@ -30,6 +40,7 @@ public class Grafo {
     private Property nombre;
 
     public Grafo() {
+        LogCtl.setCmdLogging();
         modelo = ModelFactory.createDefaultModel();
         modelo.setNsPrefix("si2", si2);
         modelo.setNsPrefix("aemet", aemet);
@@ -40,6 +51,22 @@ public class Grafo {
         latitud = ResourceFactory.createProperty(geo, "lat");
         altitud = ResourceFactory.createProperty(geo, "alt");
         longitud = ResourceFactory.createProperty(geo, "long");
+    }
+
+    public Grafo(String datos, String esquema) {
+        this();
+        modelo.setNsPrefix("rdf", rdf);
+        modelo.setNsPrefix("rdfs", rdfs);
+        modelo.setNsPrefix("xsd", xsd);
+
+        Model modelEsq = RDFDataMgr.loadModel(esquema);
+        Model modelDatos = RDFDataMgr.loadModel(datos);
+
+        Reasoner reasoner = ReasonerRegistry.getRDFSReasoner();
+        reasoner.setParameter(ReasonerVocabulary.PROPsetRDFSLevel, ReasonerVocabulary.RDFS_SIMPLE);
+
+        Reasoner reasonerScheme = reasoner.bindSchema(modelEsq);
+        modelo = ModelFactory.createInfModel(reasonerScheme, modelDatos);
     }
 
     public void addStation(JSONObject node) throws JSONException {
@@ -70,6 +97,11 @@ public class Grafo {
                 RDFDataMgr.write(stream, modelo, RDFFormat.NTRIPLES);
                 break;
         }
+    }
+
+    public Model union(Grafo grafo) {
+        this.modelo = modelo.union(grafo.modelo);
+        return this.modelo;
     }
 
 }

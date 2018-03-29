@@ -1,4 +1,7 @@
-@prefix si2: <http://www.si2.com/si2/>
+@prefix si2: <http://www.si2.com/>
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
 si2:Galicia si2:perteneceAPais si2:Espanya.
 si2:Asturias si2:perteneceAPais si2:Espanya.
