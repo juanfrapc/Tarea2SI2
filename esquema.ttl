@@ -3,9 +3,14 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 @prefix si2: <http://www.si2.com/si2/>
 
+si2:Pais rdfs:subClassOf si2:DelimitacionGeografica.
 si2:ComunidadAutonoma rdfs:subClassOf si2:DelimitacionGeografica.
 si2:Provincia rdfs:subClassOf si2:DelimitacionGeografica.
 
-si2:perteneceA
+si2:perteneceAComunidad
     rdfs:domain si2:Provincia;
     rdfs:range si2:ComunidadAutonoma.
+
+si2:perteneceAPais
+   rdfs:domain si2:ComunidadAutonoma;
+   rdfs:range si2:Pais.

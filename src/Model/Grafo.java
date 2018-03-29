@@ -15,6 +15,9 @@ public class Grafo {
     public static final int XML = 1;
     public static final int NTRIPLE = 2;
 
+    public static final int RDFSREASONER = 0;
+    public static final int SIMPLEREASONER = 1;
+
     private static final String si2 = "http://www.si2.com/";
     private static final String aemet = "http://aemet.linkeddata.es/ontology/";
     private static final String geo = "http://www.w3.org/2003/01/geo/wgs84_pos#";

@@ -19,9 +19,8 @@ public class UI {
     private Grafo grafo;
     private JPanel contentPane;
     private JButton okButton;
-    private JRadioButton turttleRadioButton;
-    private JRadioButton XMLRadioButton;
-    private JRadioButton nTripleRadioButton;
+    private JRadioButton rdfsReasonerRadioButton;
+    private JRadioButton simpleReasonerRadioButton;
     private JTextField outputPath;
     private JPanel typePanel;
     private JPanel filePanel;
@@ -36,9 +35,8 @@ public class UI {
         grafo = DataLoader.cargaGrafo();
         outputPath.setText(System.getProperty("user.dir"));
         fileChooserButton.addActionListener(filechooserListener());
-        turttleRadioButton.addActionListener(typeStateChange(turttleRadioButton, TURTTLE));
-        XMLRadioButton.addActionListener(typeStateChange(XMLRadioButton, XML));
-        nTripleRadioButton.addActionListener(typeStateChange(nTripleRadioButton, NTRIPLE));
+        rdfsReasonerRadioButton.addActionListener(typeStateChange(rdfsReasonerRadioButton, TURTTLE));
+        simpleReasonerRadioButton.addActionListener(typeStateChange(simpleReasonerRadioButton, XML));
         okButton.addActionListener(okActionListener());
     }
 
@@ -83,10 +81,12 @@ public class UI {
     }
 
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Tarea 1. Juan Francisco Pérez");
+        JFrame frame = new JFrame("Tarea 2. Juan Francisco Pérez");
         frame.setContentPane(new UI().contentPane);
         frame.pack();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setResizable(false);
+        frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
 
