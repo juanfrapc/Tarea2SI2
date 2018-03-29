@@ -1,6 +1,8 @@
 package Model;
 
 import org.apache.jena.atlas.logging.LogCtl;
+import org.apache.jena.graph.Node;
+import org.apache.jena.graph.NodeFactory;
 import org.apache.jena.rdf.model.*;
 import org.apache.jena.reasoner.Reasoner;
 import org.apache.jena.reasoner.ReasonerRegistry;
@@ -12,8 +14,23 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.OutputStream;
+import java.util.ArrayList;
 
 public class Grafo {
+
+    private enum Provincia{
+
+        ACORUÑA(new String[]{"A CORUÑA", "A CORUNYA", "ACORUÑA"});
+
+
+        private ArrayList toponimos = new ArrayList<String>();
+
+        Provincia(String[] nombres) {
+            for (String nombre : nombres) {
+                this.toponimos.add(nombre);
+            }
+        }
+    }
 
     public static final int TURTTLE = 0;
     public static final int XML = 1;
@@ -37,7 +54,8 @@ public class Grafo {
     private final Property latitud;
     private final Property altitud;
     private final Property longitud;
-    private Property nombre;
+    private final Property provincia;
+    private final Property nombre;
 
     public Grafo() {
         LogCtl.setCmdLogging();
@@ -48,12 +66,13 @@ public class Grafo {
         nombre = ResourceFactory.createProperty(aemet, "stationName");
         indsinop = ResourceFactory.createProperty(aemet, "indsinop");
         province = ResourceFactory.createProperty(aemet, "Province");
+        provincia = ResourceFactory.createProperty(si2, "esta");
         latitud = ResourceFactory.createProperty(geo, "lat");
         altitud = ResourceFactory.createProperty(geo, "alt");
         longitud = ResourceFactory.createProperty(geo, "long");
     }
 
-    public Grafo(String datos, String esquema) {
+    public Grafo(String datos, String esquema, int type) {
         this();
         modelo.setNsPrefix("rdf", rdf);
         modelo.setNsPrefix("rdfs", rdfs);
@@ -63,8 +82,14 @@ public class Grafo {
         Model modelDatos = RDFDataMgr.loadModel(datos);
 
         Reasoner reasoner = ReasonerRegistry.getRDFSReasoner();
-        reasoner.setParameter(ReasonerVocabulary.PROPsetRDFSLevel, ReasonerVocabulary.RDFS_SIMPLE);
-
+        switch(type){
+            case RDFSREASONER:
+                reasoner.setParameter(ReasonerVocabulary.PROPsetRDFSLevel, ReasonerVocabulary.RDFS_FULL);
+                break;
+            case SIMPLEREASONER:
+                reasoner.setParameter(ReasonerVocabulary.PROPsetRDFSLevel, ReasonerVocabulary.RDFS_SIMPLE);
+                break;
+        }
         Reasoner reasonerScheme = reasoner.bindSchema(modelEsq);
         modelo = ModelFactory.createInfModel(reasonerScheme, modelDatos);
     }
@@ -74,6 +99,7 @@ public class Grafo {
         resource.addLiteral(nombre, node.getString("nombre"));
         resource.addLiteral(indsinop, node.getString("indsinop"));
         resource.addLiteral(province, node.getString("provincia"));
+        resource.addProperty(provincia, modelo.createResource(si2 + node.getString("provincia")));
         resource.addLiteral(latitud, node.getString("latitud"));
         resource.addLiteral(altitud, node.getString("altitud"));
         resource.addLiteral(longitud, node.getString("longitud"));

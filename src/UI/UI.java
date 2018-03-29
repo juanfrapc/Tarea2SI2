@@ -32,8 +32,6 @@ public class UI {
 
     public UI() {
         System.setProperty("javax.net.ssl.trustStore", "keystore.jks");
-        grafo = new Grafo("datos.ttl", "esquema.ttl");
-        grafo.union(DataLoader.cargaGrafoEstaciones());
         outputPath.setText(System.getProperty("user.dir"));
         fileChooserButton.addActionListener(filechooserListener());
         rdfsReasonerRadioButton.addActionListener(typeStateChange(rdfsReasonerRadioButton, RDFSREASONER));
@@ -45,6 +43,8 @@ public class UI {
         return new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+                grafo = new Grafo("datos.ttl", "esquema.ttl", selected);
+                grafo.union(DataLoader.cargaGrafoEstaciones());
                 String file = outputPath.getText() + "\\" + outputFileName.getText();
                 serialArea.setText(null);
                 try {
