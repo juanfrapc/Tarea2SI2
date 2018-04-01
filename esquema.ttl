@@ -2,19 +2,19 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 @prefix si2: <http://www.si2.com/>
+@prefix aemet: <http://aemet.linkeddata.es/ontology/>
 
-si2:Pais rdfs:subClassOf si2:DelimitacionGeografica.
-si2:ComunidadAutonoma rdfs:subClassOf si2:DelimitacionGeografica.
-si2:Provincia rdfs:subClassOf si2:DelimitacionGeografica.
+si2:Pais rdfs:subClassOf aemet:AdministrativeArea.
+si2:ComunidadAutonoma rdfs:subClassOf aemet:AdministrativeArea.
 
 si2:perteneceAComunidad
-    rdfs:domain si2:Provincia;
+    rdfs:domain aemet:Province;
     rdfs:range si2:ComunidadAutonoma.
 
 si2:perteneceAPais
    rdfs:domain si2:ComunidadAutonoma;
    rdfs:range si2:Pais.
 
-si2:esta
-    rdfs:domain si2:EstacionMeteorologica;
-    rdfs:range si2:Provincia.
+aemet:locatedInProvince
+    rdfs:domain aemet:WeatherStation;
+    rdfs:range aemet:Province.

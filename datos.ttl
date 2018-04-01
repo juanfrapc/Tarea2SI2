@@ -86,4 +86,4 @@ si2:Granada si2:perteneceAComunidad si2:Andalucia.
 si2:Almeria si2:perteneceAComunidad si2:Andalucia.
 
 si2:LasPalmas si2:perteneceAComunidad si2:Canarias.
-si2:SanatCruzDeTenerife si2:perteneceAComunidad si2:Canarias.
+si2:SantaCruzDeTenerife si2:perteneceAComunidad si2:Canarias.
