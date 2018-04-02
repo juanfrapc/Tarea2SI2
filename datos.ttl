@@ -1,89 +1,89 @@
-@prefix si2: <http://www.si2.com/>
+@prefix si2: <http://www.si2.com/si2/>
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
-si2:Galicia si2:perteneceAPais si2:Espanya.
-si2:Asturias si2:perteneceAPais si2:Espanya.
-si2:Cantabria si2:perteneceAPais si2:Espanya.
-si2:Euskadi si2:perteneceAPais si2:Espanya.
-si2:LaRioja si2:perteneceAPais si2:Espanya.
-si2:Navarra si2:perteneceAPais si2:Espanya.
-si2:Aragon si2:perteneceAPais si2:Espanya.
-si2:Catalunya si2:perteneceAPais si2:Espanya.
-si2:CastillaYLeon si2:perteneceAPais si2:Espanya.
+si2:ComunidadGalicia si2:perteneceAPais si2:Espanya.
+si2:ComunidadAsturias si2:perteneceAPais si2:Espanya.
+si2:ComunidadCantabria si2:perteneceAPais si2:Espanya.
+si2:ComunidadEuskadi si2:perteneceAPais si2:Espanya.
+si2:ComunidadLaRioja si2:perteneceAPais si2:Espanya.
+si2:ComunidadNavarra si2:perteneceAPais si2:Espanya.
+si2:ComunidadAragon si2:perteneceAPais si2:Espanya.
+si2:ComunidadCatalunya si2:perteneceAPais si2:Espanya.
+si2:ComunidadCastillaYLeon si2:perteneceAPais si2:Espanya.
 si2:ComunidadDeMadrid si2:perteneceAPais si2:Espanya.
-si2:Castilla-LaMancha si2:perteneceAPais si2:Espanya.
+si2:ComunidadCastilla-LaMancha si2:perteneceAPais si2:Espanya.
 si2:ComunidadValenciana si2:perteneceAPais si2:Espanya.
-si2:IllesBalears si2:perteneceAPais si2:Espanya.
-si2:Extremadura si2:perteneceAPais si2:Espanya.
-si2:Murcia si2:perteneceAPais si2:Espanya.
-si2:Andalucia si2:perteneceAPais si2:Espanya.
-si2:Canarias si2:perteneceAPais si2:Espanya.
+si2:ComunidadIllesBalears si2:perteneceAPais si2:Espanya.
+si2:ComunidadExtremadura si2:perteneceAPais si2:Espanya.
+si2:ComunidadMurcia si2:perteneceAPais si2:Espanya.
+si2:ComunidadAndalucia si2:perteneceAPais si2:Espanya.
+si2:ComunidadCanarias si2:perteneceAPais si2:Espanya.
 
-si2:ACoruña si2:perteneceAComunidad si2:Galicia.
-si2:Lugo si2:perteneceAComunidad si2:Galicia.
-si2:Ourense si2:perteneceAComunidad si2:Galicia.
-si2:Pontevedra si2:perteneceAComunidad si2:Galicia.
+si2:ACoruña si2:perteneceAComunidad si2:ComunidadGalicia.
+si2:Lugo si2:perteneceAComunidad si2:ComunidadGalicia.
+si2:Ourense si2:perteneceAComunidad si2:ComunidadGalicia.
+si2:Pontevedra si2:perteneceAComunidad si2:ComunidadGalicia.
 
-si2:Asturias si2:perteneceAComunidad si2:Asturias.
+si2:Asturias si2:perteneceAComunidad si2:ComunidadAsturias.
 
-si2:Cantabria si2:perteneceAComunidad si2:Cantabria.
+si2:Cantabria si2:perteneceAComunidad si2:ComunidadCantabria.
 
-si2:Bizkaia si2:perteneceAComunidad si2:Euskadi.
-si2:Gipuzkoa si2:perteneceAComunidad si2:Euskadi.
-si2:Alava si2:perteneceAComunidad si2:Euskadi.
+si2:Bizkaia si2:perteneceAComunidad si2:ComunidadEuskadi.
+si2:Gipuzkoa si2:perteneceAComunidad si2:ComunidadEuskadi.
+si2:Alava si2:perteneceAComunidad si2:ComunidadEuskadi.
 
-si2:LaRioja si2:perteneceAComunidad si2:LaRioja.
+si2:LaRioja si2:perteneceAComunidad si2:ComunidadLaRioja.
 
-si2:Navarra si2:perteneceAComunidad si2:Navarra.
+si2:Navarra si2:perteneceAComunidad si2:ComunidadNavarra.
 
-si2:Huesca si2:perteneceAComunidad si2:Aragon.
-si2:Zaragoza si2:perteneceAComunidad si2:Aragon.
-si2:Teruel si2:perteneceAComunidad si2:Aragon.
+si2:Huesca si2:perteneceAComunidad si2:ComunidadAragon.
+si2:Zaragoza si2:perteneceAComunidad si2:ComunidadAragon.
+si2:Teruel si2:perteneceAComunidad si2:ComunidadAragon.
 
-si2:Lleida si2:perteneceAComunidad si2:Catalunya.
-si2:Girona si2:perteneceAComunidad si2:Catalunya.
-si2:Barcelona si2:perteneceAComunidad si2:Catalunya.
-si2:Tarragona si2:perteneceAComunidad si2:Catalunya.
+si2:Lleida si2:perteneceAComunidad si2:ComunidadCatalunya.
+si2:Girona si2:perteneceAComunidad si2:ComunidadCatalunya.
+si2:Barcelona si2:perteneceAComunidad si2:ComunidadCatalunya.
+si2:Tarragona si2:perteneceAComunidad si2:ComunidadCatalunya.
 
-si2:Leon si2:perteneceAComunidad si2:CastillaYLeon.
-si2:Palencia si2:perteneceAComunidad si2:CastillaYLeon.
-si2:Burgos si2:perteneceAComunidad si2:CastillaYLeon.
-si2:Soria si2:perteneceAComunidad si2:CastillaYLeon.
-si2:Zamora si2:perteneceAComunidad si2:CastillaYLeon.
-si2:Valladolid si2:perteneceAComunidad si2:CastillaYLeon.
-si2:Segovia si2:perteneceAComunidad si2:CastillaYLeon.
-si2:Salamanca si2:perteneceAComunidad si2:CastillaYLeon.
-si2:Avila si2:perteneceAComunidad si2:CastillaYLeon.
+si2:Leon si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
+si2:Palencia si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
+si2:Burgos si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
+si2:Soria si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
+si2:Zamora si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
+si2:Valladolid si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
+si2:Segovia si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
+si2:Salamanca si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
+si2:Avila si2:perteneceAComunidad si2:ComunidadCastillaYLeon.
 
 si2:Madrid si2:perteneceAComunidad si2:ComunidadDeMadrid.
 
-si2:Guadalajara si2:perteneceAComunidad si2:Castilla-LaMancha.
-si2:Toledo si2:perteneceAComunidad si2:Castilla-LaMancha.
-si2:Cuenca si2:perteneceAComunidad si2:Castilla-LaMancha.
-si2:Ciudad-Real si2:perteneceAComunidad si2:Castilla-LaMancha.
-si2:Albacete si2:perteneceAComunidad si2:Castilla-LaMancha.
+si2:Guadalajara si2:perteneceAComunidad si2:ComunidadCastilla-LaMancha.
+si2:Toledo si2:perteneceAComunidad si2:ComunidadCastilla-LaMancha.
+si2:Cuenca si2:perteneceAComunidad si2:ComunidadCastilla-LaMancha.
+si2:Ciudad-Real si2:perteneceAComunidad si2:ComunidadCastilla-LaMancha.
+si2:Albacete si2:perteneceAComunidad si2:ComunidadCastilla-LaMancha.
 
 si2:Castellon si2:perteneceAComunidad si2:ComunidadValenciana.
 si2:Valencia si2:perteneceAComunidad si2:ComunidadValenciana.
 si2:Alicante si2:perteneceAComunidad si2:ComunidadValenciana.
 
-si2:IllesBalears si2:perteneceAComunidad si2:IllesBalears.
+si2:IllesBalears si2:perteneceAComunidad si2:ComunidadIllesBalears.
 
-si2:Caceres si2:perteneceAComunidad si2:Extremadura.
-si2:Badajoz si2:perteneceAComunidad si2:Extremadura.
+si2:Caceres si2:perteneceAComunidad si2:ComunidadExtremadura.
+si2:Badajoz si2:perteneceAComunidad si2:ComunidadExtremadura.
 
-si2:Murcia si2:perteneceAComunidad si2:Murcia.
+si2:Murcia si2:perteneceAComunidad si2:ComunidadMurcia.
 
-si2:Huelva si2:perteneceAComunidad si2:Andalucia.
-si2:Sevilla si2:perteneceAComunidad si2:Andalucia.
-si2:Cordoba si2:perteneceAComunidad si2:Andalucia.
-si2:Jaen si2:perteneceAComunidad si2:Andalucia.
-si2:Cadiz si2:perteneceAComunidad si2:Andalucia.
-si2:Malaga si2:perteneceAComunidad si2:Andalucia.
-si2:Granada si2:perteneceAComunidad si2:Andalucia.
-si2:Almeria si2:perteneceAComunidad si2:Andalucia.
+si2:Huelva si2:perteneceAComunidad si2:ComunidadAndalucia.
+si2:Sevilla si2:perteneceAComunidad si2:ComunidadAndalucia.
+si2:Cordoba si2:perteneceAComunidad si2:ComunidadAndalucia.
+si2:Jaen si2:perteneceAComunidad si2:ComunidadAndalucia.
+si2:Cadiz si2:perteneceAComunidad si2:ComunidadAndalucia.
+si2:Malaga si2:perteneceAComunidad si2:ComunidadAndalucia.
+si2:Granada si2:perteneceAComunidad si2:ComunidadAndalucia.
+si2:Almeria si2:perteneceAComunidad si2:ComunidadAndalucia.
 
-si2:LasPalmas si2:perteneceAComunidad si2:Canarias.
-si2:SantaCruzDeTenerife si2:perteneceAComunidad si2:Canarias.
+si2:LasPalmas si2:perteneceAComunidad si2:ComunidadCanarias.
+si2:SantaCruzDeTenerife si2:perteneceAComunidad si2:ComunidadCanarias.
