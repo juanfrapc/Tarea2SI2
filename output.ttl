@@ -6,7 +6,7 @@
 @prefix aemet: <http://aemet.linkeddata.es/ontology/> .
 
 si2:Jaen  a                      aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Andalucia .
+        si2:perteneceAComunidad  si2:ComunidadAndalucia .
 
 si2:StationC249I  aemet:indicativo  "C249I" ;
         aemet:indsinop           "60035" ;
@@ -18,7 +18,7 @@ si2:StationC249I  aemet:indicativo  "C249I" ;
 
 si2:SantaCruzDeTenerife
         a                        aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Canarias .
+        si2:perteneceAComunidad  si2:ComunidadCanarias .
 
 si2:Station2614  aemet:indicativo  "2614" ;
         aemet:indsinop           "08130" ;
@@ -93,10 +93,10 @@ si2:Station3434X  aemet:indicativo  "3434X" ;
         geo:long                 "053457W" .
 
 si2:Soria  a                     aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:ACoruña  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Galicia .
+        si2:perteneceAComunidad  si2:ComunidadGalicia .
 
 si2:StationC229J  aemet:indicativo  "C229J" ;
         aemet:indsinop           "60034" ;
@@ -122,11 +122,8 @@ si2:Station4103X  aemet:indicativo  "4103X" ;
         geo:lat                  "391009N" ;
         geo:long                 "030027W" .
 
-si2:Euskadi  a              aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
-
 si2:Lleida  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Catalunya .
+        si2:perteneceAComunidad  si2:ComunidadCatalunya .
 
 si2:Station7209  aemet:indicativo  "7209" ;
         aemet:indsinop           "08426" ;
@@ -183,10 +180,6 @@ si2:Station1249I  aemet:indicativo  "1249I" ;
         geo:alt                  "336" ;
         geo:lat                  "432112N" ;
         geo:long                 "055227W" .
-
-si2:Castilla-LaMancha
-        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
 
 si2:Station4410X  aemet:indicativo  "4410X" ;
         aemet:indsinop           "08331" ;
@@ -253,10 +246,10 @@ si2:StationC447A  aemet:indicativo  "C447A" ;
         geo:long                 "161946W" .
 
 si2:Cordoba  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Andalucia .
+        si2:perteneceAComunidad  si2:ComunidadAndalucia .
 
 si2:Zaragoza  a                  aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Aragon .
+        si2:perteneceAComunidad  si2:ComunidadAragon .
 
 si2:Station9698U  aemet:indicativo  "9698U" ;
         aemet:indsinop           "08112" ;
@@ -420,8 +413,12 @@ si2:Station8096  aemet:indicativo  "8096" ;
         geo:lat                  "400402N" ;
         geo:long                 "020755W" .
 
+si2:ComunidadIllesBalears
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:Granada  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Andalucia .
+        si2:perteneceAComunidad  si2:ComunidadAndalucia .
 
 si2:Station2117D  aemet:indicativo  "2117D" ;
         aemet:indsinop           "08144" ;
@@ -511,9 +508,8 @@ si2:Station9201K  aemet:indicativo  "9201K" ;
         geo:lat                  "423444N" ;
         geo:long                 "003249W" .
 
-si2:Asturias  a                  aemet:AdministrativeArea , aemet:Province , si2:ComunidadAutonoma ;
-        si2:perteneceAComunidad  si2:Asturias ;
-        si2:perteneceAPais       si2:Espanya .
+si2:Asturias  a                  aemet:AdministrativeArea , aemet:Province ;
+        si2:perteneceAComunidad  si2:ComunidadAsturias .
 
 si2:Station7228  aemet:indicativo  "7228" ;
         aemet:indsinop           "08429" ;
@@ -532,7 +528,7 @@ si2:Station3013  aemet:indicativo  "3013" ;
         geo:long                 "015244W" .
 
 si2:Albacete  a                  aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Castilla-LaMancha .
+        si2:perteneceAComunidad  si2:ComunidadCastilla-LaMancha .
 
 si2:Station6332X  aemet:indicativo  "6332X" ;
         aemet:indsinop           "08488" ;
@@ -643,7 +639,7 @@ si2:Station1542  aemet:indicativo  "1542" ;
         geo:long                 "062451W" .
 
 si2:Pontevedra  a                aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Galicia .
+        si2:perteneceAComunidad  si2:ComunidadGalicia .
 
 si2:Station4386B  aemet:indicativo  "4386B" ;
         aemet:indsinop           "08336" ;
@@ -670,7 +666,7 @@ si2:Station8489X  aemet:indicativo  "8489X" ;
         geo:long                 "001521W" .
 
 si2:Ciudad-Real  a               aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Castilla-LaMancha .
+        si2:perteneceAComunidad  si2:ComunidadCastilla-LaMancha .
 
 si2:Station9294E  aemet:indicativo  "9294E" ;
         aemet:indsinop           "08087" ;
@@ -689,7 +685,7 @@ si2:Station3519X  aemet:indicativo  "3519X" ;
         geo:long                 "060509W" .
 
 si2:Teruel  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Aragon .
+        si2:perteneceAComunidad  si2:ComunidadAragon .
 
 si2:Station0076  aemet:indicativo  "0076" ;
         aemet:indsinop           "08181" ;
@@ -728,7 +724,7 @@ si2:Station5402  aemet:indicativo  "5402" ;
         geo:long                 "045048W" .
 
 si2:LasPalmas  a                 aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Canarias .
+        si2:perteneceAComunidad  si2:ComunidadCanarias .
 
 si2:Station4642E  aemet:indicativo  "4642E" ;
         aemet:indsinop           "08383" ;
@@ -754,9 +750,6 @@ si2:Station3168D  aemet:indicativo  "3168D" ;
         geo:lat                  "403749N" ;
         geo:long                 "030900W" .
 
-si2:Extremadura  a          aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
-
 si2:Station1083L  aemet:indicativo  "1083L" ;
         aemet:indsinop           "08020" ;
         aemet:locatedInProvince  si2:Cantabria ;
@@ -766,7 +759,7 @@ si2:Station1083L  aemet:indicativo  "1083L" ;
         geo:long                 "031402W" .
 
 si2:Zamora  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:StationC029O  aemet:indicativo  "C029O" ;
         aemet:indsinop           "60040" ;
@@ -800,9 +793,6 @@ si2:Station1183X  aemet:indicativo  "1183X" ;
         geo:lat                  "432513N" ;
         geo:long                 "044453W" .
 
-si2:Catalunya  a            aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
-
 si2:Station3044X  aemet:indicativo  "3044X" ;
         aemet:indsinop           "08230" ;
         aemet:locatedInProvince  si2:Cuenca ;
@@ -828,10 +818,10 @@ si2:Station7145D  aemet:indicativo  "7145D" ;
         geo:long                 "012250W" .
 
 si2:Almeria  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Andalucia .
+        si2:perteneceAComunidad  si2:ComunidadAndalucia .
 
 si2:Huesca  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Aragon .
+        si2:perteneceAComunidad  si2:ComunidadAragon .
 
 si2:Station9263X  aemet:indicativo  "9263X" ;
         aemet:indsinop           "08089" ;
@@ -848,6 +838,10 @@ si2:Station4061X  aemet:indicativo  "4061X" ;
         geo:alt                  "691" ;
         geo:lat                  "393551N" ;
         geo:long                 "030249W" .
+
+si2:ComunidadCanarias
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
 
 si2:Station2811A  aemet:indicativo  "2811A" ;
         aemet:indsinop           "08206" ;
@@ -889,8 +883,12 @@ si2:Station8019  aemet:indicativo  "8019" ;
         geo:lat                  "381658N" ;
         geo:long                 "003415W" .
 
+si2:ComunidadAndalucia
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:Cadiz  a                     aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Andalucia .
+        si2:perteneceAComunidad  si2:ComunidadAndalucia .
 
 si2:Station9262  aemet:indicativo  "9262" ;
         aemet:indsinop           "" ;
@@ -1000,7 +998,7 @@ si2:Station8416Y  aemet:indicativo  "8416Y" ;
         geo:long                 "002159W" .
 
 si2:Gipuzkoa  a                  aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Euskadi .
+        si2:perteneceAComunidad  si2:ComunidadEuskadi .
 
 si2:Station5530E  aemet:indicativo  "5530E" ;
         aemet:indsinop           "08419" ;
@@ -1045,7 +1043,7 @@ si2:StationB228  aemet:indicativo  "B228" ;
         geo:long                 "023731E" .
 
 si2:Burgos  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:Station3195  aemet:indicativo  "3195" ;
         aemet:indsinop           "08222" ;
@@ -1071,6 +1069,9 @@ si2:Station9434P  aemet:indicativo  "9434P" ;
         geo:lat                  "413715N" ;
         geo:long                 "005606W" .
 
+si2:ComunidadLaRioja  a     aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:Station5910  aemet:indicativo  "5910" ;
         aemet:indsinop           "08449" ;
         aemet:locatedInProvince  si2:Cadiz ;
@@ -1086,6 +1087,9 @@ si2:Station1037Y  aemet:indicativo  "1037Y" ;
         geo:alt                  "420" ;
         geo:lat                  "430448N" ;
         geo:long                 "021903W" .
+
+si2:ComunidadGalicia  a     aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
 
 si2:Station3194U  aemet:indicativo  "3194U" ;
         aemet:indsinop           "08220" ;
@@ -1106,7 +1110,7 @@ si2:Station6367B  aemet:indicativo  "6367B" ;
 si2:Pais  rdfs:subClassOf  aemet:AdministrativeArea , si2:Pais .
 
 si2:Tarragona  a                 aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Catalunya .
+        si2:perteneceAComunidad  si2:ComunidadCatalunya .
 
 si2:Station9087  aemet:indicativo  "9087" ;
         aemet:indsinop           "" ;
@@ -1179,7 +1183,7 @@ si2:perteneceAPais  rdfs:domain  si2:ComunidadAutonoma ;
         rdfs:range   si2:Pais .
 
 si2:Salamanca  a                 aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:Station6293X  aemet:indicativo  "6293X" ;
         aemet:indsinop           "08492" ;
@@ -1222,7 +1226,7 @@ si2:Station6155A  aemet:indicativo  "6155A" ;
         geo:long                 "042856W" .
 
 si2:Alava  a                     aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Euskadi .
+        si2:perteneceAComunidad  si2:ComunidadEuskadi .
 
 si2:Station0370B  aemet:indicativo  "0370B" ;
         aemet:indsinop           "" ;
@@ -1240,6 +1244,10 @@ si2:Station5181D  aemet:indicativo  "5181D" ;
         geo:lat                  "381853N" ;
         geo:long                 "025323W" .
 
+si2:ComunidadExtremadura
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:Station0367  aemet:indicativo  "0367" ;
         aemet:indsinop           "08184" ;
         aemet:locatedInProvince  si2:Girona ;
@@ -1256,6 +1264,14 @@ si2:Station5246  aemet:indicativo  "5246" ;
         geo:lat                  "382040N" ;
         geo:long                 "033207W" .
 
+si2:StationC649I  aemet:indicativo  "C649I" ;
+        aemet:indsinop           "60030" ;
+        aemet:locatedInProvince  si2:LasPalmas ;
+        aemet:stationName        "GRAN CANARIA AEROPUERTO" ;
+        geo:alt                  "32" ;
+        geo:lat                  "275504N" ;
+        geo:long                 "152343W" .
+
 si2:Station1549  aemet:indicativo  "1549" ;
         aemet:indsinop           "08053" ;
         aemet:locatedInProvince  si2:Leon ;
@@ -1264,13 +1280,8 @@ si2:Station1549  aemet:indicativo  "1549" ;
         geo:lat                  "423350N" ;
         geo:long                 "063600W" .
 
-si2:StationC649I  aemet:indicativo  "C649I" ;
-        aemet:indsinop           "60030" ;
-        aemet:locatedInProvince  si2:LasPalmas ;
-        aemet:stationName        "GRAN CANARIA AEROPUERTO" ;
-        geo:alt                  "32" ;
-        geo:lat                  "275504N" ;
-        geo:long                 "152343W" .
+si2:ComunidadNavarra  a     aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
 
 si2:Station9576C  aemet:indicativo  "9576C" ;
         aemet:indsinop           "08165" ;
@@ -1340,7 +1351,7 @@ si2:Station9394X  aemet:indicativo  "9394X" ;
         geo:long                 "013843W" .
 
 si2:Segovia  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:Station1331A  aemet:indicativo  "1331A" ;
         aemet:indsinop           "08009" ;
@@ -1366,9 +1377,8 @@ si2:Station5047E  aemet:indicativo  "5047E" ;
         geo:lat                  "373021N" ;
         geo:long                 "024406W" .
 
-si2:Cantabria  a                 aemet:AdministrativeArea , aemet:Province , si2:ComunidadAutonoma ;
-        si2:perteneceAComunidad  si2:Cantabria ;
-        si2:perteneceAPais       si2:Espanya .
+si2:Cantabria  a                 aemet:AdministrativeArea , aemet:Province ;
+        si2:perteneceAComunidad  si2:ComunidadCantabria .
 
 si2:StationC459Z  aemet:indicativo  "C459Z" ;
         aemet:indsinop           "60012" ;
@@ -1395,7 +1405,7 @@ si2:Station1109  aemet:indicativo  "1109" ;
         geo:long                 "034932W" .
 
 si2:Leon  a                      aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:Station1351  aemet:indicativo  "1351" ;
         aemet:indsinop           "08004" ;
@@ -1430,7 +1440,7 @@ si2:StationC839I  aemet:indicativo  "C839I" ;
         geo:long                 "133007W" .
 
 si2:Badajoz  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Extremadura .
+        si2:perteneceAComunidad  si2:ComunidadExtremadura .
 
 si2:Station4090Y  aemet:indicativo  "4090Y" ;
         aemet:indsinop           "08256" ;
@@ -1540,10 +1550,10 @@ si2:Station5051X  aemet:indicativo  "5051X" ;
         geo:long                 "023910W" .
 
 si2:Girona  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Catalunya .
+        si2:perteneceAComunidad  si2:ComunidadCatalunya .
 
 si2:Ourense  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Galicia .
+        si2:perteneceAComunidad  si2:ComunidadGalicia .
 
 si2:Station3196  aemet:indicativo  "3196" ;
         aemet:indsinop           "08223" ;
@@ -1561,6 +1571,10 @@ si2:Station1700X  aemet:indicativo  "1700X" ;
         geo:lat                  "422517N" ;
         geo:long                 "080533W" .
 
+si2:ComunidadCastilla-LaMancha
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:Station8523X  aemet:indicativo  "8523X" ;
         aemet:indsinop           "08239" ;
         aemet:locatedInProvince  si2:Castellon ;
@@ -1570,7 +1584,7 @@ si2:Station8523X  aemet:indicativo  "8523X" ;
         geo:long                 "002547E" .
 
 si2:Lugo  a                      aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Galicia .
+        si2:perteneceAComunidad  si2:ComunidadGalicia .
 
 si2:Station0002I  aemet:indicativo  "0002I" ;
         aemet:indsinop           "08169" ;
@@ -1584,7 +1598,7 @@ si2:Valencia  a                  aemet:AdministrativeArea , aemet:Province ;
         si2:perteneceAComunidad  si2:ComunidadValenciana .
 
 si2:Cuenca  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Castilla-LaMancha .
+        si2:perteneceAComunidad  si2:ComunidadCastilla-LaMancha .
 
 si2:Station1207U  aemet:indicativo  "1207U" ;
         aemet:indsinop           "08014" ;
@@ -1627,7 +1641,7 @@ si2:Station6205X  aemet:indicativo  "6205X" ;
         geo:long                 "035726W" .
 
 si2:Avila  a                     aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:Station1208A  aemet:indicativo  "1208A" ;
         aemet:indsinop           "" ;
@@ -1656,6 +1670,9 @@ si2:Station1387  aemet:indicativo  "1387" ;
         geo:lat                  "432157N" ;
         geo:long                 "082517W" .
 
+si2:ComunidadAragon  a      aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:Station1041A  aemet:indicativo  "1041A" ;
         aemet:indsinop           "08026" ;
         aemet:locatedInProvince  si2:Gipuzkoa ;
@@ -1664,11 +1681,8 @@ si2:Station1041A  aemet:indicativo  "1041A" ;
         geo:lat                  "431808N" ;
         geo:long                 "021504W" .
 
-si2:CastillaYLeon  a        aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
-
 si2:Caceres  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Extremadura .
+        si2:perteneceAComunidad  si2:ComunidadExtremadura .
 
 si2:Station2539  aemet:indicativo  "2539" ;
         aemet:indsinop           "08140" ;
@@ -1687,7 +1701,7 @@ si2:Station1735X  aemet:indicativo  "1735X" ;
         geo:long                 "074401W" .
 
 si2:Barcelona  a                 aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Catalunya .
+        si2:perteneceAComunidad  si2:ComunidadCatalunya .
 
 si2:Station2755X  aemet:indicativo  "2755X" ;
         aemet:indsinop           "08056" ;
@@ -1745,9 +1759,8 @@ si2:Station7275C  aemet:indicativo  "7275C" ;
         geo:lat                  "383606N" ;
         geo:long                 "010935W" .
 
-si2:IllesBalears  a              aemet:AdministrativeArea , aemet:Province , si2:ComunidadAutonoma ;
-        si2:perteneceAComunidad  si2:IllesBalears ;
-        si2:perteneceAPais       si2:Espanya .
+si2:IllesBalears  a              aemet:AdministrativeArea , aemet:Province ;
+        si2:perteneceAComunidad  si2:ComunidadIllesBalears .
 
 si2:Station0201D  aemet:indicativo  "0201D" ;
         aemet:indsinop           "08180" ;
@@ -1797,8 +1810,12 @@ si2:Station4511C  aemet:indicativo  "4511C" ;
         geo:lat                  "381755N" ;
         geo:long                 "064554W" .
 
+si2:ComunidadCatalunya
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:Valladolid  a                aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:StationB954  aemet:indicativo  "B954" ;
         aemet:indsinop           "08373" ;
@@ -1825,7 +1842,7 @@ si2:Station6032B  aemet:indicativo  "6032B" ;
         geo:long                 "051006W" .
 
 si2:Sevilla  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Andalucia .
+        si2:perteneceAComunidad  si2:ComunidadAndalucia .
 
 si2:Station1631E  aemet:indicativo  "1631E" ;
         aemet:indsinop           "08051" ;
@@ -1834,9 +1851,6 @@ si2:Station1631E  aemet:indicativo  "1631E" ;
         geo:alt                  "840" ;
         geo:lat                  "422022N" ;
         geo:long                 "071657W" .
-
-si2:Andalucia  a            aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
 
 si2:StationC429I  aemet:indicativo  "C429I" ;
         aemet:indsinop           "60025" ;
@@ -1861,12 +1875,6 @@ si2:StationB569X  aemet:indicativo  "B569X" ;
         geo:alt                  "66" ;
         geo:lat                  "394256N" ;
         geo:long                 "032841E" .
-
-si2:Aragon  a               aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
-
-si2:Canarias  a             aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
 
 si2:Station1014  aemet:indicativo  "1014" ;
         aemet:indsinop           "08029" ;
@@ -1899,6 +1907,9 @@ si2:Station2298  aemet:indicativo  "2298" ;
         geo:alt                  "1080" ;
         geo:lat                  "415735N" ;
         geo:long                 "030754W" .
+
+si2:ComunidadMurcia  a      aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
 
 si2:Station9091R  aemet:indicativo  "9091R" ;
         aemet:indsinop           "08080" ;
@@ -2012,6 +2023,10 @@ si2:StationC449C  aemet:indicativo  "C449C" ;
         geo:lat                  "282748N" ;
         geo:long                 "161519W" .
 
+si2:ComunidadAsturias
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:StationB013X  aemet:indicativo  "B013X" ;
         aemet:indsinop           "08304" ;
         aemet:locatedInProvince  si2:IllesBalears ;
@@ -2053,7 +2068,11 @@ si2:Station5972X  aemet:indicativo  "5972X" ;
         geo:long                 "061220W" .
 
 si2:Malaga  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Andalucia .
+        si2:perteneceAComunidad  si2:ComunidadAndalucia .
+
+si2:ComunidadCastillaYLeon
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
 
 si2:Station2462  aemet:indicativo  "2462" ;
         aemet:indsinop           "08215" ;
@@ -2095,9 +2114,8 @@ si2:StationC659M  aemet:indicativo  "C659M" ;
         geo:lat                  "280647N" ;
         geo:long                 "152517W" .
 
-si2:Murcia  a                    aemet:AdministrativeArea , aemet:Province , si2:ComunidadAutonoma ;
-        si2:perteneceAComunidad  si2:Murcia ;
-        si2:perteneceAPais       si2:Espanya .
+si2:Murcia  a                    aemet:AdministrativeArea , aemet:Province ;
+        si2:perteneceAComunidad  si2:ComunidadMurcia .
 
 si2:Station2775X  aemet:indicativo  "2775X" ;
         aemet:indsinop           "08125" ;
@@ -2147,9 +2165,8 @@ si2:Station3526X  aemet:indicativo  "3526X" ;
         geo:lat                  "400013N" ;
         geo:long                 "063327W" .
 
-si2:LaRioja  a                   aemet:AdministrativeArea , aemet:Province , si2:ComunidadAutonoma ;
-        si2:perteneceAComunidad  si2:LaRioja ;
-        si2:perteneceAPais       si2:Espanya .
+si2:LaRioja  a                   aemet:AdministrativeArea , aemet:Province ;
+        si2:perteneceAComunidad  si2:ComunidadLaRioja .
 
 si2:Station2503X  aemet:indicativo  "2503X" ;
         aemet:indsinop           "08142" ;
@@ -2174,9 +2191,6 @@ si2:Station9244X  aemet:indicativo  "9244X" ;
         geo:alt                  "626" ;
         geo:lat                  "422927N" ;
         geo:long                 "011249W" .
-
-si2:Galicia  a              aemet:AdministrativeArea , si2:ComunidadAutonoma ;
-        si2:perteneceAPais  si2:Espanya .
 
 si2:Station0255B  aemet:indicativo  "0255B" ;
         aemet:indsinop           "08188" ;
@@ -2211,7 +2225,7 @@ si2:Station4358X  aemet:indicativo  "4358X" ;
         geo:long                 "055250W" .
 
 si2:Toledo  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Castilla-LaMancha .
+        si2:perteneceAComunidad  si2:ComunidadCastilla-LaMancha .
 
 si2:StationB434X  aemet:indicativo  "B434X" ;
         aemet:indsinop           "08309" ;
@@ -2301,6 +2315,9 @@ si2:Station2374X  aemet:indicativo  "2374X" ;
         geo:lat                  "422103N" ;
         geo:long                 "043702W" .
 
+si2:ComunidadEuskadi  a     aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
+
 si2:perteneceAComunidad
         rdfs:domain  aemet:Province ;
         rdfs:range   si2:ComunidadAutonoma .
@@ -2322,7 +2339,7 @@ si2:Station8178D  aemet:indicativo  "8178D" ;
         geo:long                 "015144W" .
 
 si2:Bizkaia  a                   aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Euskadi .
+        si2:perteneceAComunidad  si2:ComunidadEuskadi .
 
 si2:Station1437O  aemet:indicativo  "1437O" ;
         aemet:indsinop           "08043" ;
@@ -2340,9 +2357,8 @@ si2:Station3469  aemet:indicativo  "3469" ;
         geo:lat                  "392833N" ;
         geo:long                 "062235W" .
 
-si2:Navarra  a                   aemet:AdministrativeArea , aemet:Province , si2:ComunidadAutonoma ;
-        si2:perteneceAComunidad  si2:Navarra ;
-        si2:perteneceAPais       si2:Espanya .
+si2:Navarra  a                   aemet:AdministrativeArea , aemet:Province ;
+        si2:perteneceAComunidad  si2:ComunidadNavarra .
 
 si2:Station9434  aemet:indicativo  "9434" ;
         aemet:indsinop           "08160" ;
@@ -2369,7 +2385,7 @@ si2:Station5995B  aemet:indicativo  "5995B" ;
         geo:long                 "055754W" .
 
 si2:Huelva  a                    aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Andalucia .
+        si2:perteneceAComunidad  si2:ComunidadAndalucia .
 
 si2:ComunidadDeMadrid
         a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
@@ -2416,10 +2432,10 @@ si2:Station7031X  aemet:indicativo  "7031X" ;
         geo:long                 "004821W" .
 
 si2:Palencia  a                  aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:CastillaYLeon .
+        si2:perteneceAComunidad  si2:ComunidadCastillaYLeon .
 
 si2:Guadalajara  a               aemet:AdministrativeArea , aemet:Province ;
-        si2:perteneceAComunidad  si2:Castilla-LaMancha .
+        si2:perteneceAComunidad  si2:ComunidadCastilla-LaMancha .
 
 si2:Station6084X  aemet:indicativo  "6084X" ;
         aemet:indsinop           "08480" ;
@@ -2476,6 +2492,10 @@ si2:Station7178I  aemet:indicativo  "7178I" ;
         geo:alt                  "61" ;
         geo:lat                  "380007N" ;
         geo:long                 "011015W" .
+
+si2:ComunidadCantabria
+        a                   aemet:AdministrativeArea , si2:ComunidadAutonoma ;
+        si2:perteneceAPais  si2:Espanya .
 
 si2:Station1111X  aemet:indicativo  "1111X" ;
         aemet:indsinop           "08023" ;
